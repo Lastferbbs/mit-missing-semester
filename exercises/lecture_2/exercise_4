@@ -1,0 +1,14 @@
+Exercise:
+
+Your task is to write a command that recursively finds all HTML files in the folder and makes a zip with them.
+ Note that your command should work even if the files have spaces (hint: check -d flag for xargs).
+
+
+Answer:
+
+find . -name "*.html" -print0 | xargs -0 tar cfz html.tar
+tar -xf html.gz --transform='s/.*\///'
+
+--transform get rid of subdirectories
+quite useful
+

@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+for i in {1..10000}; do
+
+OUTPUT=$(./exercise_3_mock 2>&1)
+
+	if [ $? -ne 0 ]; then
+	        echo "$OUTPUT" | tee error.log
+		echo "Number of runs: $i"
+		break
+	fi
+done
