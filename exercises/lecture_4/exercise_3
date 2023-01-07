@@ -1,0 +1,24 @@
+Look for boot messages that are not shared between your past three reboots (see journalctl’s -b flag).
+Break this task down into multiple steps. First, find a way to get just the logs from the past three boots.
+There may be an applicable flag on the tool you use to extract the boot logs, or you can use sed '0,/STRING/d' to remove all lines previous to one that matches STRING.
+Next, remove any parts of the line that always varies (like the timestamp). Then, de-duplicate the input lines and keep a count of each one (uniq is your friend).
+And finally, eliminate any line whose count is 3 (since it was shared among all the boots).
+
+Answer:
+
+journalctl -b -2 | sed -E '/(.*)systemd\[1\]: Startup finished in(.*)/q' >> 2_reboots.txt | journalctl -b -1 | sed -E '/(.*)systemd\[1\]: Startup finished in(.*)/q' >> 1_reboots.txt | journalctl -b -0 | sed -E '/(.*)systemd\[1\]: Startup finished in(.*)/q' >> 0_reboots.txt
+
+Above command extracts all lines between start and end of boot of my system, for last 3 reboots,
+and save it in 3 separated files, could be shortened by passing regex to variable for example
+
+cat 0_reboots.txt | sed -E 's/.*<username>[^:]*: //' | sort | uniq > uniq.txt | cat 1_reboots.txt | sed -E 's/.*<username>[^:]*: //' | sort | uniq > uniq.txt | cat 2_reboots.txt | sed -E 's/.*<username>[^:]*: //' | sort | uniq > uniq.txt
+
+This command erase most uniq info from each line, like date etc., sort and save unique lines to uniq file, for all 3 boots.
+I found quite interesing part with regex, as sed (at least standart ubuntu version) doesn't support non greedy matching,
+so i could use perl which support it or use [^:]* which match everything up to char in square brackets, for me ":".
+
+cat uniq.txt | sort | uniq -c | sed '/^      3.*/d' | sort
+
+Last part is sorting uniq.txt where are combined lines from all 3 reboots, then uniq with counting, after it use sed to delete lines with 3 occurance
+
+Quite simple, but also time consuming for beginner in this matter.

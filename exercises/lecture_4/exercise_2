@@ -1,0 +1,13 @@
+Find your average, median, and max system boot time over the last ten boots.
+Use journalctl on Linux and log show on macOS, and look for log timestamps near the beginning and end of each boot.
+
+
+Answer:
+
+journalctl | grep 'systemd\[1\]: Startup finished' | tail -n10 | awk '{print $(NF)}' | st-console <(rg -o "\d+\.\d+") --median --mean
+
+0. open journalctl
+1. grep for startup log
+2. get last 10 enteries
+3. get last column with awk
+4. calculate median and mean with st-console and process substitution (also cleaning numbers with rg) 

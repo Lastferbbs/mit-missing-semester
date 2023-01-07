@@ -1,0 +1,2323 @@
+    0257ff710f2a16e489b37493c07604a7cda96129d8a8fd68d2b6af633904315d
+    02e6216acaef6401401fa555ecbed940b1a5f2569aed92956137ae58482ef1b7
+    03f64a29948a88beffdb035e0b09a7370ccf0cd9ce6bcf8e640c2107318fab87
+    05d87e15713454616f5b0ed7849ab5c1712ab84f02349478ec2a38f970c01489
+    06eb5badd26e4fae65f9a42358deef7c18e52cc05fbb7fc76776e69d1b982a14
+    075eea060589548ba060b2feed10da3c20c7fe9b17cd026b94e8a683b8115238
+    07e6c6a858646fb1efc67903fe28b116011f2367fe92e6be2b36999eff39d09e
+    08bb2289e9e91b4d20ff3f1562516ab07e979b2c6cefe2ab70c6dfc1199f8da5
+    0928f0408bf725e61d67d87138a8eebc52962d2847f16e3587163b160e41b6ad
+    09df5f4e511208ec78b96d12d08125fdb603868de39f6f72927852599b659c26
+    09f98aa90f85198c0d73f89ba77e87ec6f596c491350fb8f8bba80a62fbb914b
+    0a75ea0b1d70eaa4d3f374246db54fc7b43e7f596a353309b9c36b4fd975725e
+    0bbb4392daac7ab89b30a4ac657531b97bfaab04f90b0dafe5f9b6eb90a06374
+    0c189339762df336ab3dd006a463df715a39cfb0f492465c600e6c6bd7bd898c
+    0c51d7906fc4931149765da88682426b2cfe9e6aa4f27253eab400111432e3a7
+    0ce02100f67c7ef85f4eed368f02bf7092380a3c23ca91fd7f19430d94b00c19
+    0d0dbeca6f29eca06f331a7d72e4884b12097fb348983a2a14a0d73f4f10140f
+    0dc24c75eb1aef56b9f13ab9de60e2eca1c4510034e290bbb36cf60a549b234c
+    0dc9f3fb99962148c3ca833632758d3ed4fc8d0b0007b95b31e6528f2acd5bfc
+    0fa3a29ad05130d7fe5bf4d2596563cded1d874096aacc181069932a2e49519a
+    106faceacfecfd4e303b74f480a08098e2d0802b936f8ec774ce21f31686689c
+    10d45fcba396aef3153ee8f6ecae58afe8476a280a2026fc71f6217dcf49ba2f
+ #13 #14 #15 #16 #17 #18 #19 #20 #21 #22 #23
+[13:28:17] Using lock path: /var/lock/whoopsie/lock
+    147730b42f11fe493fe902b6251e97cd2b6f34d36af59330f11d02a42f940d07
+    148fe18f715a9fcfe1a444ce0fff7f85869eb422330dc04b314c0f295d6da79e
+    174e3a0b5b43c6a607bbd3404f05341e3dcf396267ce94f8b50e2e23a9da920c
+    18333429ff0562ed9f97033e1148dceee52dbe2e496d5410b5cfd6c864d2d10f
+    1aec84b84b6c65a51220a9be7181965230210d62d6d33c48999c6b295a2b0a06
+    1b909115a8d473e51328a87823bd621ce655dfae54fa2bfa72fdc0298611d6b8
+    1cb4dccaf2c812cfa7b4938e1371fe2b96910fe407216fd95428672d6c7e7316
+    1d8b58c1fdb8da8b33ccee1e5f973af734d90ef317e33f5db1573c2ba088a80c
+    1f16078cce009df62edb9e7170e66caae670bce71b8f92d38280c56aa372031d
+    1f179186efdf5ef2de018245ba0eae8134868601ba0d35ff3d9865c1537ced93
+    2679650fe341f2cf1ea883460b3556aaaf77a70d6b8dc484c9301d1b746cf7b5
+    270c84b29d86f16312b06aaae4ebb8dff8de7d080d825b8839ff1766274eff47
+    29c6eb52b43c3aa18b2cd8ed6ea8607cef3cfae1bafe1165755cf2e614844a44
+    29cca4544ea330d61591c784695c149c6b040022ac7b5b89cbd72800d10840ea
+    2b2298eaa26b9dc4a4558ae92e7bb0e4f85cf34bf848fdf636c0c11fbec49897
+    2b99cf26422e92fe365fbf4bc30d27086c9ee14b7a6fff44fb2f6b9001699939
+    2bbf2ca7b8f1d91f27ee52b6fb2a5dd049b85a2b9b529c5d6662068104b055f8
+    2c73d93325ba6dcbe589d4a4c63c5b935559ef92fbf050ed50c4e2085206f17d
+    2dcf8e8d817023d1e8e1451a3d68d6ec30d9bed94cbcb87f19ddc1cc0116ac1a
+    2e70916786a6f773511fa7181fab0f1d70b557c6322ea923b2a8d3b92b51af7d
+    306628fa5477305728ba4a467de7d0387a54f569d3769fce5e75ec89d28d1593
+    311a2ac55b50c09b30b3cc93b994a119153eeeac54ef892fc447bbbd96101aa1
+    32ad3296829bc46dcfac5eddcb9dbf2c1eed5c11f83b2210cf9c6e60c798d4a7
+    32f5940ca29dd812a2c145e6fc89646628ffcc7c7a42cae512337d8d29c40bbd
+    340da32b58331c8e2b561baf300ca9dfd6b91cd2270ee0e2a34958b1c6259e85
+    3608edbaf5ad0f41a414a1777abf2faf5e670334675ec3995e6935829e0caad2
+    362ed31d20b1e00392281231a96f0a0acfde02618953e695c9ef2eb0bac37550
+    363384d14d1f2e0b7815626484c459ad57a318ef4396266048d058c5a19bbf76
+    367a31e5838831ad2c074647886a6cdff217e6b1ba910bff85dc7a87ae9b5e98
+    3765d769c05bf98b427b3511903b2137e8a49b6f859d0af159ed6a86786aa634
+    37a480374daf6202ce790c318a2bb8aa3797311261160a8e30558b7dea78c7a6
+    3841d221368d1583d75c0a02e62160394d6c4e0a6760b6f607b90362bc855b02
+    386d695cdf2d4576e01bcaccf5e49e78da51af9955c0b8fa7606373b007994b3
+    39dbc2288ef44b5f95332cb777e31103e840dba680634aa806f5c9b100061802
+    3a4f74beafae2b9383ad8215d233a6cf3d057fb3c7e213e897beef4255faee9d
+    3a91f0f9e5287fa2994c7d930b2c1a5ee14ce8e1c8304ae495adc58cc4453c0c
+    3ae76c45ca70e9180c1559981f42622dd251bca1fbe6b901c52ec11673b03514
+    3b0287533e0cc3d0ec1aa823cbf0a941aad8721579d1c499802dd1c3a636b8a9
+    3be8e7eb348d35c1928f19c769846788991641d1f6cf09514ca10269934f7359
+    3e3926f0b8a15ad5a14167bb647a843c3d4321e35dbc44dce8c837417f2d28b0
+    3ece27cbb3ec4438cce523b927c4f05fdc5c593a3766db984c5e437a3ff6a16b
+    3fce9b9fdf3ef09d5452b0f95ee481c2b7f06d743a737971558e70136ace3e73
+    400ac66d59b7b094a9e30b01a6bd013aff1d30570f83e7592f421dbe5ff4ba8f
+    408b8b3df5abb043521a493525023175ab1261b1de21064d6bf247ce142153b9
+    4185821f6dab5ba8347b78a22b5f9a0a7570ca5c93a74d478a793d83bac49805
+    41d1eeb177c0324e17dd6557f384e532de0cf51a019a446b01efb351bc259d77
+    4397daca839e7f63077cb50c92df43bc2d2fb2a8f59f26fc7a0e4bd4d9751692
+    45876b4dd861d45b3a94800774027a5db45a48b2a729410908b6412f8a87e95d
+    45c7c8ae750acfbb48fc37527d6412dd644daed8913ccd8a24c94d856967df8e
+    4667bf250cd7c1a06b8474c613cdb1df648a7f58736fbf57d05d6f755dab67f4
+    47cc086127e2069a86e03a6bef2cd410f8c55a6d6bdb362168c31b2ce32a5adf
+    47ff1b63b140b6fc04ed79131331e651da5b2e2f170f5daef4153dc2fbc532b1
+    495300790e6c9bf2510daba59db3d57e9d2b85d7d7640434ec75baa3851c74e5
+    4b8668a5d465bcdd9000aa8dfcff42044fcbd0aece32fc7011a83e9160e89f09
+    518831fe7382b514d03e15c621228b8ab65479bd0cbfa3c5c1d0f48d9c306135
+    5391c3a2fb112102a6aa1edc25ae77e19f5d6f09cd09eeb2509922bfcd5992ea
+    540801dd345dc1c33ef431b35bf4c0e68bd319b577b9abe1a9cff1cbc39f548f
+    55b99b0de53dbcfe485aa9c737cf3fb616ef3d91fab599aa7cab19eda763b5ba
+    57e6913afacc5222bd76cdaf31f8ed88895464255374ef097a82d7f59ad39596
+    5890fa227121c76d90ed9e63c87e3a6533eea0f6f0a1a23f1fc445139bc6bcdf
+    58fb941aef95a25943b3fb5f2510a0df3fe44c58c95e0ab80487297568ab9771
+    5ae949ea8855eb93e439dbc65bda2e42852c2fdf6789fa146736e3c3410f2b5c
+    5b248e913d71853d3da5aedd8d9a4bc57a917126573817fb5fcb2d86a2f1c886
+    5c5805196a85e93789457017d4f9eb6828b97c41cb9ba6d3dc1fcc115f527a55
+    5d1e9acbbb4a7d024b6852df025970e2ced66ff622ee019cd0ed7fd841ccad02
+    61341e07697978220ea61e85dcd2421343f2c1bf35cc5b8d0ad2f0226f391479
+    61cec4a377bf5902c0feaee37034bf97d5bc6e0615e23a1cdfbae6e3f5fb3cfd
+    631f0857b41845362c90c6980b4b10c4b628e23dbe24b6e96c128ae3dcb0d5ac
+    64575bd912789a2e14ad56f6341f52af6bf80cf94400785975e9f04e2d64d745
+    65b2e7cc18d903c331df1152df73ca0dc932d29f17997481c56f3087b2dd3147
+    65f3c0a01b8402d362b9722e98f75e5e991e6c186e934f7b2b2e6be6dec800ec
+    66aa13a0edc219384d9c425d3927e6ed4a5d1940c5e7cd4dac88f5770103f2f1
+    6873d2f61c29bd52e954eeff5977aa8367439997811a62ff212c948133c68d97
+    68ee4632c7be1c66c83e89dd93eaee1294159abf45b4c2c72d7dc7499aa2a043
+    6b1d138078e4418aa68deb7bb35e066092cf479eeb8ce4cd12e7d072ccb42f66
+    6c8854478dd559e29351b826c06cb8bfef2b94ad3538358772d193f82ed1ca11
+    6dbbead23e8c860cf8b47f74fbfca5204de3e28b881313bb1d1eccdc4747934e
+    6dead13257dfc3ccc6a4b37016ba91755fe9e0ec1f415030942e5abc47f07c88
+    6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d
+    6efefe0b5b01478b7b944c10d3a8aca2cca4208888e2059f8a06cb5824d7bab0
+    6f1428ff71c9db0ed5af1f2e7bbfcbab647cc265ddf5b293cdb626f50a3a785e
+    70a1450af2ad395569ad0afeb1d9c125324ee90aec39c258880134d4892d51ab
+    71f2906fd222497e54a34662ab2497fcc81020770ff51368e9e3d9bfcbfd6375
+    726b3eb654046a30f3f83d9b96ce03f670e9a806d1708a0371e62dc49d2c23c1
+    72c26f827ceb92989798961bc6ae748d141e05d3ebcfb65d9041b266c920be82
+    72e0bd1867cf5d9d56ab158adf3bddbc82bf32a8d8aa1d8c5e2f6df29428d6d8
+    77dd190fa30d88ff5e3b011a0ae61e6209780c130b535ecb87e6f0888a0b6b2f
+    781764102188a8b4b173d4a8f5ec94d828647156097f99357a581e624b377509
+    7827af99362cfaf0717dade4b1bfe0438ad171c15addc248b75bf8caa44bb2c5
+    788383a4c733bb87d2bf51673dc73e92df15ab7d51dc715627ae77686d8d23bc
+    78b4edcaabc8d9093e20e217802caeb4f09e23a3394c4acc6e87e8f35395310f
+    7bc9cb5463ce0f011fb5085eb8ba77d1acd283c43f4a57603cc113f22cebc579
+    7eac80a915c84cd4afec638904d94eb168a8557951a4d539b0713028552b6b8c
+    7f49ccb309323b1c7ab11c93c955b8c744f0a2b75c311f495e18906070500027
+    804e354c6368bb27a90fae8e498a57052b293418259a019c4f53a2007254490f
+    80b4d96931bf0d02fd91a61e19d14f1da452e66db2408ca8604d411f92659f0a
+    81a8b2c9751aeb1faba7dbde5ee9691dc0eaee2a31c38b1491a8146756a6b770
+    81a8b965bb84d3876b9429a95481cc955318cfaa1412d808c8a33bfd33fff0e4
+    81d8fb4c9e2e7a8225656b4b8273b7cba4b03ef2e9eb20e0a0291624eca1ba86
+    82acba48d5236ccff7659afc14594dee902bd6082ef1a30a0b9b508628cf34f4
+    82db3bceb4f60843ce9d97c3d187cd9b5941cd3de8100e586f2bda5637575f67
+    835881f2a5572d7059b5c8635018552892e945626f115fc9ca07acf7bde857a4
+    894d7839368f3298cc915ae8742ef330d7a26699f459478cf22c2b6bb2850166
+    895a9785f617ca1d7ed44fc1a1470b71f3f1223862d9ff9dcc3ae2df92163daf
+    89f3d1f6e485c334cd059d0995e3cdfdc00571b1849854847a44dc5548e2dcfb
+    8ad64859f195b5f58dafaa940b6a6167acd67a886e8f469364177221c55945b9
+    8bf434b49e00ccf71502a2cd900865cb01ec3b3da03c35be505fdf7bd563f521
+    8c0349d708571ae5aa21c11363482332073297d868f29058916529efc520ef70
+    8d8ea289cfe70a1c07ab7365cb28ee51edd33cf2506de888fbadd60ebf80481c
+    8d93d60c691959651476e5dc464be12a85fa5280b6f524d4a1c3fcc9d048cfad
+    8e53efdc15f852cee5a6e92931bc42e6163cd30ff649cca7e87252c3a459960b
+8 rules loaded
+    9063f5fbc5e57ab6de6c9488146020e172b176d5ab57d4c89f0f600e17fe2de2
+    90fbe70e69d633408d3e170c6832dbb2d209e0272527dfb63d49d29572a6f44c
+    91656aa4ef493b3824a0b7263248e4e2d657a5c8488d880cb65b01730932fb53
+    91971c1497bf8e5bc68439acc48d63ebb8faabfd764dcbe82f3ba977cac8cf6a
+    939aeef4f5fa51e23340c3f2e49048ce8872526afdf752c3a7f3a3f2bc9f6049
+    947078f97c6196968c3ae99c9a5d58667e86882cf6c8c9d58967a496bb7af43c
+    95049f0e4137c790b0d2767195e56f73807d123adcf8f6e7bf2d4d991d305f89
+    96e4509450d380dac362ff8e295589128a1f1ce55885d20d89c27ba2a9d00909
+    9783b5ee4492e9e891c655f1f48035959dad453c0e623af0fe7bf2c0a57885e3
+    97a51a094444620df38cd8c6512cac909a75fd437ae1e4d22929807661238127
+    97a8c5ba11d61fefbb5d6a05da4e15ba472dc4c6cd4972fc1a035de321342fe4
+    992820e6ec8c41daae4bd8ab48f58268e943a670d35ca5e2bdcd3e7c4c94a072
+    992d359aa7a5f789d268b94c11b9485a6b1ce64362b0edb4441ccc187c39647b
+    9954a1a99d55e8b189ab1bca414b91f6a017191f6c40a86b6f3ef368dd860031
+    9998d363c491be16bd74ba10b94d9291001611736fdca643a36664bc0f315a42
+    9baf4f76d76bf5d6a897bfbd5f429ba14d04e08b48c3ee8d76930a828fff3891
+    9c259fcb301d5fc7397ed5759963e0ef6b36e42057fd73046e6bd08b149f751c
+    9d00ae4cd47a41c783dc48f342c076c2c16f3413f4d2df50d181ca3bb5ad859d
+    9dd2dcb72f5e741627f2e9e03ab18503a3403cf6a904a479a4db05d97e2250a9
+    9e4a69173161682e55fde8fef560eb88ec1ffedcaf04001f66c0caf707b2b734
+    9ed33f0fbc180bc032f8909ca2c4ab3418edc33a45a50d2521a3b5876aa3ea2c
+    9f1863ed5717c394b42ef10a6607b144a65ba11fb6579df94b8eb2f0c4cd60c1
+    9fa4d5023fd43ecaff4200ba7e8d4353259d2b7e5e72b5096eff8027d66d1043
+    a4d978b7c4bda15435d508f8b9592ec2a5adfb12ea7bad146a35ecb53094642f
+    a6b5151f3655d3a2af0d472759796be4a4200e5495a7d869754c4848857408a7
+    a7f32f508d4eb0fead9a087ef94ed1ba0aec5de6f7ef6ff0a62b93bedf5d458d
+    a924d3cad6da42b7399b96a095a06f18f6b1aba5b873b0d5f3a0ee2173b48b6c
+accounting to /run/pacct_source
+ACPI: 12 ACPI AML tables successfully acquired and loaded
+ACPI: Added _OSI(3.0 _SCP Extensions)
+ACPI: Added _OSI(Linux-Dell-Video)
+ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+ACPI: Added _OSI(Module Device)
+ACPI: Added _OSI(Processor Aggregator Device)
+ACPI: Added _OSI(Processor Device)
+ACPI: APIC 0x00000000DB4D7000 00015E (v03 ALASKA A M I    01072009 AMI  00010013)
+ACPI: BGRT 0x00000000DB4E1000 000038 (v01 ALASKA A M I    01072009 AMI  00010013)
+ACPI: bus type PCI registered
+ACPI: bus type USB registered
+ACPI: button: Power Button [PWRB]
+ACPI: button: Power Button [PWRF]
+ACPI: CDIT 0x00000000DB4E2000 000029 (v01 AMD    AmdTable 00000001 AMD  00000001)
+ACPI: Core revision 20210730
+ACPI: CRAT 0x00000000DB4E3000 001118 (v01 AMD    AmdTable 00000001 AMD  00000001)
+ACPI: DSDT 0x00000000DB4CF000 007165 (v02 ALASKA A M I    01072009 INTL 20120913)
+ACPI: Early table checksum verification disabled
+ACPI: Enabled 9 GPEs in block 00 to 1F
+ACPI: FACP 0x00000000DB4F9000 000114 (v06 ALASKA A M I    01072009 AMI  00010013)
+ACPI: FACS 0x00000000DCBEA000 000040
+ACPI: FIDT 0x00000000DB4F1000 00009C (v01 ALASKA A M I    01072009 AMI  00010013)
+ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+ACPI: FPDT 0x00000000DB4F4000 000044 (v01 ALASKA A M I    01072009 AMI  01000013)
+ACPI: HPET 0x00000000DB4EF000 000038 (v01 ALASKA A M I    01072009 AMI  00000005)
+ACPI: HPET id: 0x10228201 base: 0xfed00000
+ACPI: Interpreter enabled
+ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+ACPI: IVRS 0x00000000DB4EE000 0000D0 (v02 AMD    AmdTable 00000001 AMD  00000001)
+ACPI: LAPIC_NMI (acpi_id[0xff] high edge lint[0x1])
+ACPI: MCFG 0x00000000DB4F0000 00003C (v01 ALASKA A M I    01072009 MSFT 00010013)
+ACPI: PCCT 0x00000000DB4EC000 00006E (v02 AMD    AmdTable 00000001 AMD  00000001)
+ACPI: PCI: Interrupt link LNKA configured for IRQ 0
+ACPI: PCI: Interrupt link LNKB configured for IRQ 0
+ACPI: PCI: Interrupt link LNKC configured for IRQ 0
+ACPI: PCI: Interrupt link LNKD configured for IRQ 0
+ACPI: PCI: Interrupt link LNKE configured for IRQ 0
+ACPI: PCI: Interrupt link LNKF configured for IRQ 0
+ACPI: PCI: Interrupt link LNKG configured for IRQ 0
+ACPI: PCI: Interrupt link LNKH configured for IRQ 0
+ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+ACPI: PM: Registering ACPI NVS region [mem 0x0a200000-0x0a20dfff] (57344 bytes)
+ACPI: PM: Registering ACPI NVS region [mem 0xdb508000-0xdcc06fff] (24113152 bytes)
+ACPI: PM: (supports S0 S3 S4 S5)
+ACPI: PM-Timer IO Port: 0x808
+acpi PNP0A08:00: [Firmware Info]: MMCONFIG for domain 0000 [bus 00-7f] only partially covers this bridge
+acpi PNP0A08:00: _OSC: OS now controls [PCIeHotplug AER PCIeCapability]
+acpi PNP0A08:00: _OSC: OS supports [ExtendedConfig ASPM ClockPM Segments MSI EDR HPX-Type3]
+acpi PNP0A08:00: _OSC: platform does not support [SHPCHotplug PME LTR DPC]
+acpi PNP0C14:02: duplicate WMI GUID 05901221-D566-11D1-B2F0-00A0C9062910 (first instance was on PNP0C14:01)
+ACPI: Reserving APIC table memory at [mem 0xdb4d7000-0xdb4d715d]
+ACPI: Reserving BGRT table memory at [mem 0xdb4e1000-0xdb4e1037]
+ACPI: Reserving CDIT table memory at [mem 0xdb4e2000-0xdb4e2028]
+ACPI: Reserving CRAT table memory at [mem 0xdb4e3000-0xdb4e4117]
+ACPI: Reserving DSDT table memory at [mem 0xdb4cf000-0xdb4d6164]
+ACPI: Reserving FACP table memory at [mem 0xdb4f9000-0xdb4f9113]
+ACPI: Reserving FACS table memory at [mem 0xdcbea000-0xdcbea03f]
+ACPI: Reserving FIDT table memory at [mem 0xdb4f1000-0xdb4f109b]
+ACPI: Reserving FPDT table memory at [mem 0xdb4f4000-0xdb4f4043]
+ACPI: Reserving HPET table memory at [mem 0xdb4ef000-0xdb4ef037]
+ACPI: Reserving IVRS table memory at [mem 0xdb4ee000-0xdb4ee0cf]
+ACPI: Reserving MCFG table memory at [mem 0xdb4f0000-0xdb4f003b]
+ACPI: Reserving PCCT table memory at [mem 0xdb4ec000-0xdb4ec06d]
+ACPI: Reserving SSDT table memory at [mem 0xdb4d9000-0xdb4dc7af]
+ACPI: Reserving SSDT table memory at [mem 0xdb4dd000-0xdb4dd52b]
+ACPI: Reserving SSDT table memory at [mem 0xdb4de000-0xdb4df0ab]
+ACPI: Reserving SSDT table memory at [mem 0xdb4e0000-0xdb4e0258]
+ACPI: Reserving SSDT table memory at [mem 0xdb4e5000-0xdb4eb1a2]
+ACPI: Reserving SSDT table memory at [mem 0xdb4f5000-0xdb4f50be]
+ACPI: Reserving SSDT table memory at [mem 0xdb4f6000-0xdb4f70ae]
+ACPI: Reserving SSDT table memory at [mem 0xdb4f8000-0xdb4f807c]
+ACPI: Reserving SSDT table memory at [mem 0xdb4fa000-0xdb4fa308]
+ACPI: Reserving SSDT table memory at [mem 0xdb4fb000-0xdb4feb0f]
+ACPI: Reserving SSDT table memory at [mem 0xdb4ff000-0xdb507cfb]
+ACPI: Reserving TPM2 table memory at [mem 0xdb4ed000-0xdb4ed04b]
+ACPI: Reserving WSMT table memory at [mem 0xdb4d8000-0xdb4d8027]
+ACPI: RSDP 0x00000000DCBF0014 000024 (v02 ALASKA)
+ACPI: \_SB_.PLTF.C000: Found 2 idle states
+ACPI: \_SB_.PLTF.C001: Found 2 idle states
+ACPI: \_SB_.PLTF.C002: Found 2 idle states
+ACPI: \_SB_.PLTF.C003: Found 2 idle states
+ACPI: \_SB_.PLTF.C004: Found 2 idle states
+ACPI: \_SB_.PLTF.C005: Found 2 idle states
+ACPI: \_SB_.PLTF.C006: Found 2 idle states
+ACPI: \_SB_.PLTF.C007: Found 2 idle states
+ACPI: \_SB_.PLTF.C008: Found 2 idle states
+ACPI: \_SB_.PLTF.C009: Found 2 idle states
+ACPI: \_SB_.PLTF.C00A: Found 2 idle states
+ACPI: \_SB_.PLTF.C00B: Found 2 idle states
+ACPI: \_SB_.PLTF.C00C: Found 2 idle states
+ACPI: \_SB_.PLTF.C00D: Found 2 idle states
+ACPI: \_SB_.PLTF.C00E: Found 2 idle states
+ACPI: \_SB_.PLTF.C00F: Found 2 idle states
+ACPI: \_SB_.PLTF.C010: Found 2 idle states
+ACPI: \_SB_.PLTF.C011: Found 2 idle states
+ACPI: \_SB_.PLTF.C012: Found 2 idle states
+ACPI: \_SB_.PLTF.C013: Found 2 idle states
+ACPI: \_SB_.PLTF.C014: Found 2 idle states
+ACPI: \_SB_.PLTF.C015: Found 2 idle states
+ACPI: \_SB_.PLTF.C016: Found 2 idle states
+ACPI: \_SB_.PLTF.C017: Found 2 idle states
+ACPI: SSDT 0x00000000DB4D9000 0037B0 (v01 AMD    ArticN   00000001 INTL 20120913)
+ACPI: SSDT 0x00000000DB4DD000 00052C (v01 AMD    ArticNOI 00000001 INTL 20120913)
+ACPI: SSDT 0x00000000DB4DE000 0010AC (v01 AMD    ArticTPX 00000001 INTL 20120913)
+ACPI: SSDT 0x00000000DB4E0000 000259 (v01 AMD    ArticDGP 00000001 INTL 20120913)
+ACPI: SSDT 0x00000000DB4E5000 0061A3 (v02 AMD    AmdTable 00000001 AMD  00000001)
+ACPI: SSDT 0x00000000DB4F5000 0000BF (v01 AMD    AmdTable 00001000 INTL 20120913)
+ACPI: SSDT 0x00000000DB4F6000 0010AF (v01 AMD    ArticC   00000001 INTL 20120913)
+ACPI: SSDT 0x00000000DB4F8000 00007D (v01 AMD    ArticDIS 00000001 INTL 20120913)
+ACPI: SSDT 0x00000000DB4FA000 000309 (v02 ALASKA CPUSSDT  01072009 AMI  01072009)
+ACPI: SSDT 0x00000000DB4FB000 003B10 (v01 AMD    AMD AOD  00000001 INTL 20120913)
+ACPI: SSDT 0x00000000DB4FF000 008CFC (v02 AMD    AmdTable 00000002 MSFT 02000002)
+ACPI: TPM2 0x00000000DB4ED000 00004C (v04 ALASKA A M I    00000001 AMI  00000000)
+ACPI: Using ACPI (MADT) for SMP configuration information
+ACPI: Using IOAPIC for interrupt routing
+ACPI: WSMT 0x00000000DB4D8000 000028 (v01 ALASKA A M I    01072009 AMI  00010013)
+ACPI: XSDT 0x00000000DCBEF728 0000E4 (v01 ALASKA A M I    01072009 AMI  01000013)
+Acquired the name org.freedesktop.UDisks2 on the system message bus
+Activated swap /dev/disk/by-uuid/a519530b-0a82-4974-80fa-4abf6adc940d.
+Activating swap /dev/disk/by-uuid/a519530b-0a82-4974-80fa-4abf6adc940d...
+    ad3be589c0474e97de5bb2bf33534948b76bb80376dfdc58b1fed767b5a15bfc
+    ad6826e1946d26d3eaf3685c88d97d85de3b4dcb3d0ee2ae81c70560d13c5720
+Added device '/dev/dri/card0' (radeon) using non-atomic mode setting.
+Adding 9764860k swap on /dev/nvme0n1p1.  Priority:-2 extents:1 across:9764860k SSFS
+    aeebae3151271273ed95aa2e671139ed31a98567303a332298f83709a9d55aa1
+AES CTR mode by8 optimization enabled
+    afe2030afb7d2cda13f9fa333a02e34f6751afec11b010dbcd441fdf4c4002b3
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+ahci 0000:06:00.1: AHCI 0001.0301 32 slots 6 ports 6 Gbps 0x3f impl SATA mode
+ahci 0000:06:00.1: flags: 64bit ncq sntf stag pm led clo only pmp pio slum part sxs deso sadm sds apst 
+ahci 0000:06:00.1: SSS flag set, parallel bus scan disabled
+ahci 0000:06:00.1: version 3.0
+  AMD AuthenticAMD
+amdgpu: Ignoring ACPI CRAT on non-APU system
+amdgpu: Topology: Add CPU node
+amdgpu: Virtual CRAT table created for CPU
+amd_pstate: This processor supports shared memory solution, you can enable it with amd_pstate.shared_mem=1
+AMD-Vi: AMD IOMMUv2 loaded and initialized
+AMD-Vi: Extended features (0x58f77ef22294a5a): PPR NX GT IA PC GA_vAPIC
+AMD-Vi: Interrupt remapping enabled
+Anacron 2.3 started on 2023-01-01
+anacron.service: Deactivated successfully.
+APIC: Switch to symmetric I/O mode setup
+AppArmor: AppArmor Filesystem Enabled
+AppArmor: AppArmor initialized
+AppArmor: AppArmor sha1 policy hashing enabled
+AppArmor status: apparmor is enabled and all features are available
+Asymmetric key parser 'x509' registered
+                                                   asyncCallback@resource:///org/gnome/gjs/modules/core/overrides/Gio.js:114:23
+ata1: SATA link down (SStatus 0 SControl 330)
+ata1: SATA max UDMA/133 abar m131072@0xfc980000 port 0xfc980100 irq 41
+ata2: SATA link down (SStatus 0 SControl 330)
+ata2: SATA max UDMA/133 abar m131072@0xfc980000 port 0xfc980180 irq 41
+ata3: SATA link down (SStatus 0 SControl 330)
+ata3: SATA max UDMA/133 abar m131072@0xfc980000 port 0xfc980200 irq 41
+ata4: SATA link down (SStatus 0 SControl 330)
+ata4: SATA max UDMA/133 abar m131072@0xfc980000 port 0xfc980280 irq 41
+ata5: SATA link down (SStatus 0 SControl 300)
+ata5: SATA max UDMA/133 abar m131072@0xfc980000 port 0xfc980300 irq 41
+ata6: SATA link down (SStatus 0 SControl 330)
+ata6: SATA max UDMA/133 abar m131072@0xfc980000 port 0xfc980380 irq 41
+ATK Bridge is disabled but a11y has already been enabled.
+ATOM BIOS: C40304
+audit: initializing netlink subsys (disabled)
+audit: type=1400 audit(1672576090.012:10): apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe//kmod" pid=786 comm="apparmor_parser"
+audit: type=1400 audit(1672576090.012:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-senddoc" pid=793 comm="apparmor_parser"
+audit: type=1400 audit(1672576090.012:3): apparmor="STATUS" operation="profile_load" profile="unconfined" name="ippusbxd" pid=799 comm="apparmor_parser"
+audit: type=1400 audit(1672576090.012:4): apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-xpdfimport" pid=795 comm="apparmor_parser"
+audit: type=1400 audit(1672576090.012:5): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lsb_release" pid=785 comm="apparmor_parser"
+audit: type=1400 audit(1672576090.012:6): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/man" pid=790 comm="apparmor_parser"
+audit: type=1400 audit(1672576090.012:7): apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_filter" pid=790 comm="apparmor_parser"
+audit: type=1400 audit(1672576090.012:8): apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_groff" pid=790 comm="apparmor_parser"
+audit: type=1400 audit(1672576090.012:9): apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe" pid=786 comm="apparmor_parser"
+audit: type=1400 audit(1672576093.024:65): apparmor="DENIED" operation="capable" profile="/snap/snapd/17883/usr/lib/snapd/snap-confine" pid=1433 comm="snap-confine" capability=12  capname="net_admin"
+audit: type=1400 audit(1672576093.024:66): apparmor="DENIED" operation="capable" profile="/snap/snapd/17883/usr/lib/snapd/snap-confine" pid=1433 comm="snap-confine" capability=38  capname="perfmon"
+audit: type=1400 audit(1672576097.500:67): apparmor="DENIED" operation="capable" profile="/usr/sbin/cups-browsed" pid=1878 comm="cups-browsed" capability=23  capname="sys_nice"
+audit: type=1400 audit(1672576097.604:68): apparmor="STATUS" operation="profile_load" profile="unconfined" name="docker-default" pid=1916 comm="apparmor_parser"
+audit: type=2000 audit(1672576086.208:1): state=initialized audit_enabled=0 res=1
+avahi-daemon 0.8 starting up.
+AVC apparmor="DENIED" operation="capable" profile="/snap/snapd/17883/usr/lib/snapd/snap-confine" pid=1433 comm="snap-confine" capability=12  capname="net_admin"
+AVC apparmor="DENIED" operation="capable" profile="/snap/snapd/17883/usr/lib/snapd/snap-confine" pid=1433 comm="snap-confine" capability=38  capname="perfmon"
+AVC apparmor="DENIED" operation="capable" profile="/usr/sbin/cups-browsed" pid=1878 comm="cups-browsed" capability=23  capname="sys_nice"
+AVC apparmor="DENIED" operation="capable" profile="/usr/sbin/cupsd" pid=980 comm="cupsd" capability=12  capname="net_admin"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="docker-default" pid=1916 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="ippusbxd" pid=799 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-oosplash" pid=792 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-senddoc" pid=793 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-soffice//gpg" pid=794 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-soffice" pid=794 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-xpdfimport" pid=795 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="lsb_release" pid=785 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_filter" pid=790 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_groff" pid=790 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe//kmod" pid=786 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe" pid=786 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/core/14399/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=836 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/core/14399/usr/lib/snapd/snap-confine" pid=836 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.core.hook.configure" pid=846 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.firefox.firefox" pid=847 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.firefox.geckodriver" pid=848 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.firefox.hook.configure" pid=849 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.firefox.hook.connect-plug-host-hunspell" pid=850 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.firefox.hook.disconnect-plug-host-hunspell" pid=851 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.firefox.hook.post-refresh" pid=852 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.go.gofmt" pid=854 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.go.go" pid=853 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.ipfs.ipfs" pid=855 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.keepassxc.cli" pid=856 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.keepassxc.hook.configure" pid=857 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.keepassxc.keepassxc" pid=858 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.keepassxc.proxy" pid=859 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.prettier.prettier" pid=860 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/17883/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=837 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/17883/usr/lib/snapd/snap-confine" pid=837 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.snapd-desktop-integration.hook.configure" pid=865 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.snapd-desktop-integration.snapd-desktop-integration" pid=870 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.snap-store.hook.configure" pid=861 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.snap-store.snap-store" pid=862 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.snap-store.ubuntu-software-local-file" pid=864 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.snap-store.ubuntu-software" pid=863 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap-update-ns.core" pid=838 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap-update-ns.firefox" pid=839 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap-update-ns.go" pid=840 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap-update-ns.ipfs" pid=841 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap-update-ns.keepassxc" pid=842 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap-update-ns.prettier" pid=843 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap-update-ns.snapd-desktop-integration" pid=845 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap-update-ns.snap-store" pid=844 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="tcpdump" pid=791 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince" pid=788 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince-previewer" pid=788 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince-previewer//sanitized_helper" pid=788 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince//sanitized_helper" pid=788 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince-thumbnailer" pid=788 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/man" pid=790 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=787 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/cups/backend/cups-pdf" pid=798 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=787 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-helper" pid=787 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=796 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/snapd/snap-confine" pid=796 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/sbin/cups-browsed" pid=797 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/sbin/cupsd" pid=798 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/sbin/cupsd//third_party" pid=798 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/{,usr/}sbin/dhclient" pid=787 comm="apparmor_parser"
+AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/sbin/sssd" pid=801 comm="apparmor_parser"
+AVX2 version of gcm_enc/dec engaged.
+    b3e506340fbf6b5786973393079f24b66ba46507e35e911db0362a2acde97049
+    b54f1ee636631fad68058d3b0937031ac1b90ccb17062a391cca68afdbe40d55
+    b8d6b5e7857b45830e017c7be3d856adeb97c7290eb0665a3d473a4beb51dcf3
+    b8f078d983a24ac433216393883514cd932c33af18e7dd70884c8235f4275736
+    b92af298dc08049b78c77492d6551b710cd72aada3d77be54609e43278ef6e4d
+    b93f0699598f8b20fa0dacc12cfcfc1f2568793f6e779e04795e6d7c22530f75
+    b97a0889059c035ff1d54b6db53b11b9766668d9f955247c028b2837d7a04cd9
+    badff5e4f0fea711701ca8fb22e4c43821e31e210cf52d1d4f74dd50f1d039bc
+    bb01da0333bb639c7e1c806db0561dc98a5316f22fef1090fb8d0be46dae499a
+    bb1dd16d530008636f232303a7a86f3dff969f848815c0574b12c2d787fec93f
+    bc75f910ff320f5cb5999e66bbd4034f4ae537a42fdfef35161c5348e366e216
+    bc87a668e81966489cb508ee805183c19e6acd24cf17799ca062d2e384da0ea7
+    bdd01126e9d85710d3fe75af1cc1702a29f081b4f6fdf6a2b2135c0297a9cec5
+    be435df7cd28aa2a7c8db4fc8173475b77e5abf392f76b7c76fa3f698cb71a9a
+    bef7663be5ea4dbfd8686e24701e036f4c03fb7fcd67a6c566ed94ce09c44470
+BIOS-e820: [mem 0x0000000000000000-0x000000000009ffff] usable
+BIOS-e820: [mem 0x00000000000a0000-0x00000000000fffff] reserved
+BIOS-e820: [mem 0x0000000000100000-0x0000000009e01fff] usable
+BIOS-e820: [mem 0x0000000009e02000-0x0000000009ffffff] reserved
+BIOS-e820: [mem 0x000000000a000000-0x000000000a1fffff] usable
+BIOS-e820: [mem 0x000000000a200000-0x000000000a20dfff] ACPI NVS
+BIOS-e820: [mem 0x000000000a20e000-0x000000000affffff] usable
+BIOS-e820: [mem 0x000000000b000000-0x000000000b01ffff] reserved
+BIOS-e820: [mem 0x000000000b020000-0x00000000db0e7fff] usable
+BIOS-e820: [mem 0x00000000db0e8000-0x00000000db4a3fff] reserved
+BIOS-e820: [mem 0x00000000db4a4000-0x00000000db507fff] ACPI data
+BIOS-e820: [mem 0x00000000db508000-0x00000000dcc06fff] ACPI NVS
+BIOS-e820: [mem 0x00000000dcc07000-0x00000000ddbfefff] reserved
+BIOS-e820: [mem 0x00000000ddbff000-0x00000000deffffff] usable
+BIOS-e820: [mem 0x00000000df000000-0x00000000dfffffff] reserved
+BIOS-e820: [mem 0x00000000f0000000-0x00000000f7ffffff] reserved
+BIOS-e820: [mem 0x00000000fd200000-0x00000000fd2fffff] reserved
+BIOS-e820: [mem 0x00000000fd600000-0x00000000fd7fffff] reserved
+BIOS-e820: [mem 0x00000000fea00000-0x00000000fea0ffff] reserved
+BIOS-e820: [mem 0x00000000feb80000-0x00000000fec01fff] reserved
+BIOS-e820: [mem 0x00000000fec10000-0x00000000fec10fff] reserved
+BIOS-e820: [mem 0x00000000fec30000-0x00000000fec30fff] reserved
+BIOS-e820: [mem 0x00000000fed00000-0x00000000fed00fff] reserved
+BIOS-e820: [mem 0x00000000fed40000-0x00000000fed44fff] reserved
+BIOS-e820: [mem 0x00000000fed80000-0x00000000fed8ffff] reserved
+BIOS-e820: [mem 0x00000000fedc2000-0x00000000fedcffff] reserved
+BIOS-e820: [mem 0x00000000fedd4000-0x00000000fedd5fff] reserved
+BIOS-e820: [mem 0x00000000ff000000-0x00000000ffffffff] reserved
+BIOS-e820: [mem 0x0000000100000000-0x000000081f2fffff] usable
+BIOS-e820: [mem 0x000000081f300000-0x000000081fffffff] reserved
+BIOS-provided physical RAM map:
+... bit width:              48
+blacklist: Loading compiled-in revocation X.509 certificates
+blacklist: Revoked X.509 cert 'Canonical Ltd. Secure Boot Signing: 61482aa2830d0ab2ad5af10b7250da9033ddcef0'
+blacklist: Revoked X.509 cert 'Debian Secure Boot Signer: 00a7468def'
+Block layer SCSI generic (bsg) driver version 0.4 loaded (major 243)
+    BOOT_IMAGE=/vmlinuz-5.15.0-56-generic
+Booting paravirtualized kernel on bare hardware
+Boot VGA GPU /dev/dri/card0 selected as primary
+bridge: filtering via arp/ip/ip6tables is no longer available by default. Update your scripts to load br_netfilter if you need this.
+Bridge firewalling registered
+Built 1 zonelists, mobility grouping on.  Total pages: 8238566
+bus: 1, device: 3 was not an MTP device
+bus: 1, device: 4 was not an MTP device
+bus: 1, device: 5 was not an MTP device
+bus: 3, device: 2 was not an MTP device
+bus: 3, device: 3 was not an MTP device
+    c2469759c1947e14f4b65f72a9f5b3af8b6f6e727b68bb0d91385cbf42176a8a
+    c3505bf3ec10a51dace417c76b8bd10939a065d1f34e75b8a3065ee31cc69b96
+    c3a99a460da464a057c3586d83cef5f4ae08b7103979ed8932742df0ed530c66
+    c409bdac4775add8db92aa22b5b718fb8c94a1462c1fe9a416b95d8a3388c2fc
+    c42d11c70ccf5e8cf3fb91fdf21d884021ad836ca68adf2cbb7995c10bf588d4
+    c452ab846073df5ace25cca64d6b7a09d906308a1a65eb5240e3c4ebcaa9cc0c
+    c5d9d8a186e2c82d09afaa2a6f7f2e73870d3e64f72c4e08ef67796a840f0fbd
+    c617c1a8b1ee2a811c28b5a81b4c83d7c98b5b0c27281d610207ebe692c2967f
+    c69d64a5b839e41ba16742527e17056a18ce3c276fd26e34901a1bc7d0e32219
+    c805603c4fa038776e42f263c604b49d96840322e1922d5606a9b0bbb5bffe6f
+    c83cb13922ad99f560744675dd37cc94dcad5a1fcba6472fee341171d939e884
+    c90f336617b8e7f983975413c997f10b73eb267fd8a10cb9e3bdbfc667abdb8b
+    c9ec350406f26e559affb4030de2ebde5435054c35a998605b8fcf04972d8d55
+    ca171d614a8d7e121c93948cd0fe55d39981f9d11aa96e03450a415227c2c65b
+Calibrating delay loop (skipped), value calculated using timer frequency.. 6000.52 BogoMIPS (lpj=12001052)
+Canary thread running.
+    cb340011afeb0d74c4a588b36ebaa441961608e8d2fa80dca8c13872c850796b
+    cb6b858b40d3a098765815b592c1514a49604fafd60819da88d7a76e9778fef7
+    cc8eec6eb9212cbf897a5ace7e8abeece1079f1a6def0a789591cb1547f1f084
+ccp 0000:2d:00.1: ccp: unable to access the device: you might be running a broken BIOS.
+ccp 0000:2d:00.1: enabling device (0000 -> 0002)
+    ce3bfabe59d67ce8ac8dfd4a16f7c43ef9c224513fbc655957d735fa29f540ce
+  Centaur CentaurHauls
+    cf13a243c1cd2e3c8ceb7e70100387cecbfb830525bbf9d0b70c79adf3e84128
+    /C=GB/ST=Isle of Man/O=Canonical Ltd./OU=Secure Boot/CN=Canonical Ltd. Secure Boot Signing
+checking bus 1, device 3: "/sys/devices/pci0000:00/0000:00:01.2/0000:06:00.0/usb1/1-5"
+checking bus 1, device 4: "/sys/devices/pci0000:00/0000:00:01.2/0000:06:00.0/usb1/1-6"
+checking bus 1, device 5: "/sys/devices/pci0000:00/0000:00:01.2/0000:06:00.0/usb1/1-8"
+checking bus 3, device 2: "/sys/devices/pci0000:00/0000:00:08.1/0000:2d:00.3/usb3/3-3"
+checking bus 3, device 3: "/sys/devices/pci0000:00/0000:00:08.1/0000:2d:00.3/usb3/3-4"
+clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff, max_idle_ns: 2085701024 ns
+clocksource: hpet: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 133484873504 ns
+clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645041785100000 ns
+clocksource: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645519600211568 ns
+clocksource: Switched to clocksource tsc
+clocksource: Switched to clocksource tsc-early
+clocksource: tsc-early: mask: 0xffffffffffffffff max_cycles: 0x2b3f3dfccd5, max_idle_ns: 440795305856 ns
+clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x2b3e43c8763, max_idle_ns: 440795360101 ns
+    /CN=Debian Secure Boot Signer
+    /CN=MSI SHIP KEK
+    /CN=MSI SHIP PK
+Command line: BOOT_IMAGE=/vmlinuz-5.15.0-56-generic root=UUID=e3d1fba6-f9ab-4e88-afe1-c0c3fa4c9c72 ro quiet splash vt.handoff=7
+Condition check resulted in Auto import assertions from block devices being skipped.
+Condition check resulted in Automatically repair incorrect owner/permissions on core devices being skipped.
+Condition check resulted in Bluetooth service being skipped.
+Condition check resulted in Commit a transient machine-id on disk being skipped.
+Condition check resulted in Dispatch Password Requests to Console Directory Watch being skipped.
+Condition check resulted in fast remote file copy program daemon being skipped.
+Condition check resulted in File System Check on Root Device being skipped.
+Condition check resulted in First Boot Complete being skipped.
+Condition check resulted in getty on tty2-tty6 if dbus and logind are not available being skipped.
+Condition check resulted in Manage Sound Card State (restore and store) being skipped.
+Condition check resulted in Platform Persistent Storage Archival being skipped.
+Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Condition check resulted in Process error reports when automatic reporting is enabled (timer based) being skipped.
+Condition check resulted in Store a System Token in an EFI Variable being skipped.
+Condition check resulted in System Security Services Daemon being skipped.
+Condition check resulted in Timer to automatically fetch and run repair assertions being skipped.
+Condition check resulted in Ubuntu Advantage GCP Auto Attach Daemon being skipped.
+Condition check resulted in Ubuntu Advantage reboot cmds being skipped.
+Condition check resulted in Unix socket for apport crash forwarding being skipped.
+Condition check resulted in Userspace listener for prompt events being skipped.
+Condition check resulted in Wait for the Ubuntu Core chooser trigger being skipped.
+Console: colour dummy device 80x25
+Console: switching to colour dummy device 80x25
+Console: switching to colour frame buffer device 240x75
+cpuidle: using governor ladder
+cpuidle: using governor menu
+Created gbm renderer for '/dev/dri/card0'
+Created slice Slice /system/getty.
+Created slice Slice /system/modprobe.
+Created slice Slice /system/systemd-fsck.
+Created slice User and Session Slice.
+Created slice User Application Slice.
+Created slice User Background Tasks Slice.
+Created slice User Core Session Slice.
+Created slice User Slice of UID 125.
+(CRON) INFO (pidfile fd = 3)
+(CRON) INFO (Running @reboot jobs)
+cryptd: max_cpu_qlen set to 1000
+    /C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=Microsoft Corporation KEK CA 2011
+    /C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=Microsoft Corporation UEFI CA 2011
+    /C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=Microsoft Windows Production PCA 2011
+    d063ec28f67eba53f1642dbf7dff33c6a32add869f6013fe162e2c32f1cbe56d
+    d372c0d0f4fdc9f52e9e1f23fc56ee72414a17f350d0cea6c26a35a6c3217a13
+    d626157e1d6a718bc124ab8da27cbb65072ca03a7b6b257dbdcbbd60f65ef3d1
+    d89a11d16c488dd4fbbc541d4b07faf8670d660994488fe54b1fbff2704e4288
+    d8cbeb9735f5672b367e4f96cdc74969615d17074ae96c724d42ce0216f8f3fa
+    d8d4e6ddf6e42d74a6a536ea62fd1217e4290b145c9e5c3695a31b42efb5f5a4
+    d9668ab52785086786c134b5e4bddbf72452813b6973229ab92aa1a54d201bf5
+    da3560fd0c32b54c83d4f2ff869003d2089369acf2c89608f8afa7436bfa4655
+daemon.go:247: started snapd/2.57.6 (series 16; classic) ubuntu/22.04 (amd64) linux/5.15.0-56-generic.
+daemon.go:340: adjusting startup timeout by 1m45s (pessimistic estimate of 30s plus 5s per snap)
+daemon start
+  db:
+    dbaf9e056d3d5b38b68553304abc88827ebc00f80cb9c7e197cdbc5822cd316c
+dbus[892]: Unknown group "power" in message bus configuration file
+dbus-daemon[1468]: [session uid=125 pid=1468] Activated service 'org.freedesktop.systemd1' failed: Process org.freedesktop.systemd1 exited with status 1
+dbus-daemon[1468]: [session uid=125 pid=1468] Activating service name='org.a11y.Bus' requested by ':1.4' (uid=125 pid=1505 comm="/usr/bin/gnome-shell " label="unconfined")
+dbus-daemon[1468]: [session uid=125 pid=1468] Activating service name='org.freedesktop.impl.portal.PermissionStore' requested by ':1.3' (uid=125 pid=1505 comm="/usr/bin/gnome-shell " label="unconfined")
+dbus-daemon[1468]: [session uid=125 pid=1468] Activating service name='org.freedesktop.portal.IBus' requested by ':1.24' (uid=125 pid=1691 comm="ibus-daemon --panel disable " label="unconfined")
+dbus-daemon[1468]: [session uid=125 pid=1468] Activating service name='org.freedesktop.portal.IBus' requested by ':1.36' (uid=125 pid=1811 comm="ibus-daemon --panel disable -r --xim " label="unconfined")
+dbus-daemon[1468]: [session uid=125 pid=1468] Activating service name='org.freedesktop.systemd1' requested by ':1.10' (uid=125 pid=1663 comm="/usr/libexec/gsd-sharing " label="unconfined")
+dbus-daemon[1468]: [session uid=125 pid=1468] Activating service name='org.gnome.ScreenSaver' requested by ':1.23' (uid=125 pid=1690 comm="/usr/libexec/gsd-power " label="unconfined")
+dbus-daemon[1468]: [session uid=125 pid=1468] Activating service name='org.gnome.Shell.Notifications' requested by ':1.3' (uid=125 pid=1505 comm="/usr/bin/gnome-shell " label="unconfined")
+dbus-daemon[1468]: [session uid=125 pid=1468] Activating service name='org.gtk.vfs.Daemon' requested by ':1.24' (uid=125 pid=1691 comm="ibus-daemon --panel disable " label="unconfined")
+dbus-daemon[1468]: [session uid=125 pid=1468] Successfully activated service 'org.a11y.Bus'
+dbus-daemon[1468]: [session uid=125 pid=1468] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'
+dbus-daemon[1468]: [session uid=125 pid=1468] Successfully activated service 'org.freedesktop.portal.IBus'
+dbus-daemon[1468]: [session uid=125 pid=1468] Successfully activated service 'org.gnome.ScreenSaver'
+dbus-daemon[1468]: [session uid=125 pid=1468] Successfully activated service 'org.gnome.Shell.Notifications'
+dbus-daemon[1468]: [session uid=125 pid=1468] Successfully activated service 'org.gtk.vfs.Daemon'
+dbus-daemon[1614]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=125 pid=1505 comm="/usr/bin/gnome-shell " label="unconfined")
+dbus-daemon[1614]: Successfully activated service 'org.a11y.atspi.Registry'
+  dbx:
+    dccc3ce1c00ee4b0b10487d372a0fa47f5c26f57a359be7b27801e144eacbac4
+    dd59af56084406e38c63fbe0850f30a0cd1277462a2192590fb05bc259e61273
+Dentry cache hash table entries: 4194304 (order: 13, 33554432 bytes, linear)
+Dependency failed for SSSD AutoFS Service responder socket.
+Dependency failed for SSSD NSS Service responder socket.
+Dependency failed for SSSD PAC Service responder socket.
+Dependency failed for SSSD PAM Service responder private socket.
+Dependency failed for SSSD PAM Service responder socket.
+Dependency failed for SSSD SSH Service responder socket.
+Dependency failed for SSSD Sudo Service responder socket.
+Detected 1 PCC Subspaces
+Detected architecture x86-64.
+Device '/dev/dri/card0' prefers shadow buffer
+  Device   empty
+device-mapper: core: CONFIG_IMA_DISABLE_HTABLE is disabled. Duplicate IMA measurements will not be recorded in the IMA log.
+device-mapper: ioctl: 4.45.0-ioctl (2021-03-22) initialised: dm-devel@redhat.com
+device-mapper: uevent: version 1.0.3
+/dev/nvme1n1p1: 11 files, 10658/489976 clusters
+/dev/nvme1n1p2: clean, 318/124928 files, 50176/124928 blocks
+devtmpfs: initialized
+    df02aab48387a9e1d4c65228089cb6abe196c8f4b396c7e4bbc395de136977f6
+    df91ac85a94fcd0cfb8155bd7cbefaac14b8c5ee7397fe2cc85984459e2ea14e
+  DMA32    [mem 0x0000000001000000-0x00000000ffffffff]
+  DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+DMA: preallocated 4096 KiB GFP_KERNEL|GFP_DMA32 pool for atomic allocations
+DMA: preallocated 4096 KiB GFP_KERNEL|GFP_DMA pool for atomic allocations
+DMA: preallocated 4096 KiB GFP_KERNEL pool for atomic allocations
+dmesg.service: Deactivated successfully.
+DMI: Micro-Star International Co., Ltd. MS-7C91/MAG B550 TOMAHAWK (MS-7C91), BIOS A.80 12/16/2021
+   ...done.
+[drm] amdgpu kernel modesetting enabled.
+[drm] Connector 0:
+[drm] Connector 1:
+[drm] Connector 2:
+[drm] Connector 3:
+[drm]     CRT1: INTERNAL_KLDSCP_DAC1
+[drm]   DDC: 0x6530 0x6530 0x6534 0x6534 0x6538 0x6538 0x653c 0x653c
+[drm]   DDC: 0x6540 0x6540 0x6544 0x6544 0x6548 0x6548 0x654c 0x654c
+[drm]   DDC: 0x6550 0x6550 0x6554 0x6554 0x6558 0x6558 0x655c 0x655c
+[drm]   DDC: 0x6580 0x6580 0x6584 0x6584 0x6588 0x6588 0x658c 0x658c
+[drm] Detected VRAM RAM=2048M, BAR=256M
+[drm]     DFP1: INTERNAL_UNIPHY2
+[drm]     DFP2: INTERNAL_UNIPHY2
+[drm]     DFP3: INTERNAL_UNIPHY1
+[drm]     DFP4: INTERNAL_UNIPHY
+[drm]   DP-1
+[drm]   DP-2
+[drm]   DVI-I-1
+[drm]   Encoders:
+[drm] fb depth is 24
+[drm] fb mappable at 0xE05E1000
+[drm] Found VCE firmware/feedback version 50.0.1 / 17!
+[drm] GART: num cpu pages 524288, num gpu pages 524288
+[drm]   HDMI-A-1
+[drm]   HPD1
+[drm]   HPD4
+[drm]   HPD5
+[drm]   HPD6
+[drm] ib test on ring 0 succeeded in 0 usecs
+[drm] ib test on ring 1 succeeded in 0 usecs
+[drm] ib test on ring 2 succeeded in 0 usecs
+[drm] ib test on ring 3 succeeded in 0 usecs
+[drm] ib test on ring 4 succeeded in 0 usecs
+[drm] ib test on ring 5 succeeded
+[drm] ib test on ring 6 succeeded
+[drm] ib test on ring 7 succeeded
+[drm] Initialized radeon 2.50.0 20080528 for 0000:2b:00.0 on minor 0
+[drm] initializing kernel modesetting (PITCAIRN 0x1002:0x6819 0x174B:0xE218 0x00).
+[drm] Internal thermal controller with fan control
+[drm] Loading pitcairn Microcode
+[drm] PCIE GART of 2048M enabled (table at 0x00000000001D6000).
+[drm]    pitch is 7680
+[drm] radeon: 2048M of GTT memory ready.
+[drm] radeon: 2048M of VRAM memory ready
+[drm] Radeon Display Connectors
+[drm] radeon: dpm initialized
+[drm] radeon: irq initialized.
+[drm] radeon kernel modesetting enabled.
+[drm] RAM width 256bits DDR
+[drm] ring test on 0 succeeded in 1 usecs
+[drm] ring test on 1 succeeded in 1 usecs
+[drm] ring test on 2 succeeded in 1 usecs
+[drm] ring test on 3 succeeded in 4 usecs
+[drm] ring test on 4 succeeded in 4 usecs
+[drm] ring test on 5 succeeded in 2 usecs
+[drm] ring test on 6 succeeded in 19 usecs
+[drm] ring test on 7 succeeded in 3 usecs
+[drm] size 9216000
+[drm] UVD initialized successfully.
+[drm] VCE initialized successfully.
+[drm] vram apper at 0xE0000000
+drop_monitor: Initializing network drop monitor service
+    e051b788ecbaeda53046c70e6af6058f95222c046157b8c4c1b9c2cfc65f46e5
+    e19dae83c02e6f281358d4ebd11d7723b4f5ea0e357907d5443decc5f93c1e9d
+    e24b315a551671483d8b9073b32de11b4de1eb2eab211afd2d9c319ff55e08d0
+e2scrub_reap.service: Deactivated successfully.
+    e36dfc719d2114c2e39aea88849e2845ab326f6f7fe74e0e539b7e54d81f3631
+    e39891f48bbcc593b8ed86ce82ce666fc1145b9fcbfd2b07bad0a89bf4c7bfbf
+    e6856f137f79992dc94fa2f43297ec32d2d9a76f7be66114c6a13efc3bcdf5c8
+    e6ca68e94146629af03f69c2f86e6bef62f930b37c6fbcc878b78df98c0334e5
+    e7681f153121ea1e67f74bbcb0cdc5e502702c1b8cc55fb65d702dfba948b5f4
+    e7c20b3ab481ec885501eca5293781d84b5a1ac24f88266b5270e7ecb4aa2538
+    e800395dbe0e045781e8005178b4baf5a257f06e159121a67c595f6ae22506fd
+e820: remove [mem 0x000a0000-0x000fffff] usable
+e820: reserve RAM buffer [mem 0x09e02000-0x0bffffff]
+e820: reserve RAM buffer [mem 0x0a200000-0x0bffffff]
+e820: reserve RAM buffer [mem 0x0b000000-0x0bffffff]
+e820: reserve RAM buffer [mem 0x81f300000-0x81fffffff]
+e820: reserve RAM buffer [mem 0xd6949018-0xd7ffffff]
+e820: reserve RAM buffer [mem 0xd695a018-0xd7ffffff]
+e820: reserve RAM buffer [mem 0xd6968018-0xd7ffffff]
+e820: reserve RAM buffer [mem 0xd6ac3000-0xd7ffffff]
+e820: reserve RAM buffer [mem 0xd6b22000-0xd7ffffff]
+e820: reserve RAM buffer [mem 0xdb0e8000-0xdbffffff]
+e820: reserve RAM buffer [mem 0xdf000000-0xdfffffff]
+e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+e820: update [mem 0xd6949018-0xd6959057] usable ==> usable
+e820: update [mem 0xd695a018-0xd6967857] usable ==> usable
+e820: update [mem 0xd6968018-0xd6976057] usable ==> usable
+e820: update [mem 0xd6ac3000-0xd6b1ffff] usable ==> reserved
+e820: update [mem 0xd6b22000-0xd6b22fff] usable ==> reserved
+e820: update [mem 0xdc680000-0xdc68ffff] usable ==> reserved
+e820: update [mem 0xe0000000-0xffffffff] usable ==> reserved
+    e92c22eb3b5642d65c1ec2caf247d2594738eebb7fb3841a44956f59e2b0d1fa
+    eaff8c85c208ba4d5b6b8046f5d6081747d779bada7768e649d047ff9b1f660c
+Early memory node ranges
+EDAC MC: Ver: 3.0.0
+    ee83a566496109a74f6ac6e410df00bb29a290e0021516ae3b8a23288e7e2e72
+    eed7e0eff2ed559e2a79ee361f9962af3b1e999131e30bb7fd07546fae0a7267
+efi: ACPI=0xdcbf0000 ACPI 2.0=0xdcbf0014 TPMFinalLog=0xdcbba000 SMBIOS=0xdda08000 MEMATTR=0xd8669198 MOKvar=0xd6b22000 RNG=0xdda04f98 TPMEventLog=0xd6977018 
+efi: EFI v2.70 by American Megatrends
+efifb: framebuffer at 0xe0000000, using 9000k, total 9000k
+efifb: mode is 1920x1200x32, linelength=7680, pages=1
+efifb: probing for efifb
+efifb: scrolling: redraw
+efifb: showing boot graphics
+efifb: Truecolor: size=8:8:8:8, shift=24:16:8:0
+efi: seeding entropy pool
+EFI Variables Facility v0.08 2004-May-17
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+ehci-pci: EHCI PCI platform driver
+ehci-platform: EHCI generic platform driver
+EISA bus registered
+Entering running state
+Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+Errors from xkbcomp are not fatal to the X server
+ERROR:Unknown state for interface NetworkctlListState(idx=1, name='lo', type='loopback', operational='n/a', administrative='unmanaged'): n/a
+ERROR:Unknown state for interface NetworkctlListState(idx=2, name='enp9s0', type='ether', operational='n/a', administrative='unmanaged'): n/a
+ERROR:Unknown state for interface NetworkctlListState(idx=3, name='enp42s0', type='ether', operational='n/a', administrative='unmanaged'): n/a
+... event mask:             000000000000003f
+evm: HMAC attrs: 0x1
+evm: Initialising EVM extended attributes:
+evm: security.apparmor
+evm: security.capability
+evm: security.ima
+evm: security.selinux
+evm: security.SMACK64
+evm: security.SMACK64EXEC
+evm: security.SMACK64MMAP
+evm: security.SMACK64TRANSMUTE
+Exec binary 'orca' does not exist: No such file or directory
+ext4 filesystem being mounted at /boot supports timestamps until 2038 (0x7fffffff)
+EXT4-fs (nvme1n1p2): mounted filesystem with ordered data mode. Opts: (null). Quota mode: none.
+EXT4-fs (nvme1n1p3): mounted filesystem with ordered data mode. Opts: (null). Quota mode: none.
+EXT4-fs (nvme1n1p3): re-mounted. Opts: errors=remount-ro. Quota mode: none.
+extended physical RAM map:
+Extension ding@rastersoft.com already installed in /usr/share/gnome-shell/extensions/ding@rastersoft.com. /usr/share/gnome-shell/extensions/ding@rastersoft.com will not be loaded
+Extension ubuntu-appindicators@ubuntu.com already installed in /usr/share/gnome-shell/extensions/ubuntu-appindicators@ubuntu.com. /usr/share/gnome-shell/extensions/ubuntu-appindicators@ubuntu.com will not be loaded
+Extension ubuntu-dock@ubuntu.com already installed in /usr/share/gnome-shell/extensions/ubuntu-dock@ubuntu.com. /usr/share/gnome-shell/extensions/ubuntu-dock@ubuntu.com will not be loaded
+    f1863ec8b7f43f94ad14fb0b8b4a69497a8c65ecbc2a55e0bb420e772b8cdc91
+    f1b4f6513b0d544a688d13adc291efa8c59f420ca5dcb23e0b5a06fa7e0d083d
+    f277af4f9bdc918ae89fa35cc1b34e34984c04ae9765322c3cb049574d36509c
+    f2a16d35b554694187a70d40ca682959f4f35c2ce0eab8fd64f7ac2ab9f5c24a
+    f31fd461c5e99510403fc97c1da2d8a9cbe270597d32badf8fd66b77495f8d94
+    f48e6dd8718e953b60a24f2cbea60a9521deae67db25425b7d3ace3c517dd9b7
+    f52f83a3fa9cfbd6920f722824dbe4034534d25b8507246b3b957dac6e1bce7a
+Failed to grab accelerator for keybinding settings:hibernate
+Failed to grab accelerator for keybinding settings:playback-repeat
+failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Failed to load the 'mdraid' libblockdev plugin
+Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+Faking a node at [mem 0x0000000000000000-0x000000081f2fffff]
+fb0: EFI VGA frame buffer device
+fbcon: Deferring console take-over
+fbcon: radeondrmfb (fb0) is primary device
+fbcon: Taking over console
+    fddd6e3d29ea84c7743dad4a1bdbc700b5fec1b391f932409086acc71dd6dbd8
+    fe63a84f782cc9d3fcf2ccf9fc11fbd03760878758d26285ed12669bdc6e6d01
+    fecfb232d12e994b6d485d2c7167728aa5525984ad5ca61e7516221f079a1436
+filesystem keys:
+Filesystem keystore:
+  File "/usr/bin/networkd-dispatcher", line 298, in trigger_all
+  File "/usr/bin/networkd-dispatcher", line 348, in handle_state
+Finished Apply Kernel Variables.
+Finished Coldplug All udev Devices.
+Finished Create List of Static Device Nodes.
+Finished Create Static Device Nodes in /dev.
+Finished Create System Users.
+Finished Create Volatile Files and Directories.
+Finished Detect the available GPUs and deal with any system changes.
+Finished Enable support for additional executable binary formats.
+Finished File System Check on /dev/disk/by-uuid/89E6-B381.
+Finished File System Check on /dev/disk/by-uuid/90972f1c-3c46-4f32-9b29-86f8dd096323.
+Finished Flush Journal to Persistent Storage.
+Finished GRUB failed boot detection.
+Finished Hold until boot process finishes up.
+Finished Load AppArmor profiles.
+Finished Load AppArmor profiles managed internally by snapd.
+Finished Load Kernel Module chromeos_pstore.
+Finished Load Kernel Module configfs.
+Finished Load Kernel Module drm.
+Finished Load Kernel Module efi_pstore.
+Finished Load Kernel Module fuse.
+Finished Load Kernel Module pstore_blk.
+Finished Load Kernel Module pstore_zone.
+Finished Load Kernel Module ramoops.
+Finished Load Kernel Modules.
+Finished Load/Save Random Seed.
+Finished Network Manager Wait Online.
+Finished OpenVPN service.
+Finished Permit User Sessions.
+Finished Record Runlevel Change in UTMP.
+Finished Record successful boot for GRUB.
+Finished Record System Boot/Shutdown in UTMP.
+Finished Remount Root and Kernel File Systems.
+Finished Remove Stale Online ext4 Metadata Check Snapshots.
+Finished Save/Restore Sound Card State.
+Finished Secure Boot updates for DB and DBX.
+Finished Set console font and keymap.
+Finished Set console scheme.
+Finished Set the console keyboard layout.
+Finished Set Up Additional Binary Formats.
+Finished Tell Plymouth To Write Out Runtime Data.
+Finished Uncomplicated firewall.
+Finished User Runtime Directory /run/user/125.
+Finished Wait until snapd is fully seeded.
+firmware keys:
+... fixed-purpose events:   0
+Found device KINGSTON SA2000M81000G 1.
+Found device KINGSTON SA2000M81000G 2.
+Found device Samsung SSD 970 EVO Plus 2TB 1.
+Found device Samsung SSD 970 EVO Plus 2TB 2.
+Found optimal setting for mtrr clean up
+Found user 'avahi' (UID 115) and group 'avahi' (GID 121).
+Freeing initrd memory: 61852K
+Freeing SMP alternatives memory: 40K
+Freeing unused decrypted memory: 2036K
+Freeing unused kernel image (initmem) memory: 3232K
+Freeing unused kernel image (rodata/data gap) memory: 1476K
+Freeing unused kernel image (text/rodata gap) memory: 2036K
+     from /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin
+fsck.fat 4.2 (2021-01-31)
+ftrace: allocated 198 pages with 4 groups
+ftrace: allocating 50523 entries in 198 pages
+fuse: init (API version 7.34)
+futex hash table entries: 8192 (order: 7, 524288 bytes, linear)
+Generic FE-GE Realtek PHY r8169-0-900:00: attached PHY driver (mii_bus:phy_addr=r8169-0-900:00, irq=MAC)
+... generic registers:      6
+geth.service: Cannot add dependency job, ignoring: Unit geth.service has a bad unit file setting.
+geth.service: Service has no ExecStart=, ExecStop=, or SuccessAction=. Refusing.
+GLib-GIO-CRITICAL: g_bus_get_sync: assertion 'error == NULL || *error == NULL' failed
+gnome-session-binary[1470]: GLib-GIO-CRITICAL: g_bus_get_sync: assertion 'error == NULL || *error == NULL' failed
+gnome-session-binary[1470]: WARNING: Could not parse desktop file orca-autostart.desktop or it references a not found TryExec binary
+goa-daemon version 3.44.0 starting
+gpu-manager.service: Deactivated successfully.
+ gran_size: 64K         chunk_size: 64M         num_reg: 4          lose cover RAM: 0G
+grub-common.service: Deactivated successfully.
+grub-initrd-fallback.service: Deactivated successfully.
+hid-generic 0003:0205:0001.0002: input,hiddev1,hidraw1: USB HID v1.00 Device [Superlux digit Superlux E205U] on usb-0000:2d:00.3-4/input3
+hid-generic 0003:04D9:AD50.0005: input,hidraw4: USB HID v1.10 Mouse [USB Gaming Mouse] on usb-0000:06:00.0-6/input0
+hid-generic 0003:04D9:AD50.0006: input,hiddev4,hidraw6: USB HID v1.10 Keyboard [USB Gaming Mouse] on usb-0000:06:00.0-6/input1
+hid-generic 0003:04D9:AD50.0007: hiddev5,hidraw7: USB HID v1.10 Device [USB Gaming Mouse] on usb-0000:06:00.0-6/input2
+hid-generic 0003:1462:7C91.0008: input,hiddev3,hidraw5: USB HID v1.10 Device [MSI MYSTIC LIGHT ] on usb-0000:06:00.0-8/input0
+hid-generic 0003:258A:001A.0003: input,hidraw2: USB HID v1.11 Keyboard [Gaming KB  Gaming KB ] on usb-0000:06:00.0-5/input0
+hid-generic 0003:258A:001A.0004: input,hiddev2,hidraw3: USB HID v1.11 Keyboard [Gaming KB  Gaming KB ] on usb-0000:06:00.0-5/input1
+hid-generic 0003:534D:2109.0001: hiddev0,hidraw0: USB HID v1.10 Device [MACROSILICON USB3. 0 capture] on usb-0000:2d:00.3-3/input4
+hid: raw HID events driver (C) Jiri Kosina
+    HOME=/
+Hostname set to <bscnode-MS-7C91>.
+hpet0: 3 comparators, 32-bit 14.318180 MHz counter
+hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0
+hub 1-0:1.0: 10 ports detected
+hub 1-0:1.0: USB hub found
+hub 1-2:1.0: 4 ports detected
+hub 1-2:1.0: USB hub found
+hub 2-0:1.0: 4 ports detected
+hub 2-0:1.0: USB hub found
+hub 3-0:1.0: 4 ports detected
+hub 3-0:1.0: USB hub found
+hub 4-0:1.0: 4 ports detected
+hub 4-0:1.0: USB hub found
+HugeTLB registered 1.00 GiB page size, pre-allocated 0 pages
+HugeTLB registered 2.00 MiB page size, pre-allocated 0 pages
+  Hygon HygonGenuine
+i2c_dev: i2c /dev entries driver
+i8042: PNP: No PS/2 controller found.
+ima: Allocated hash algorithm: sha1
+ima: No architecture policies found
+imuxsock: Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.2112.0]
+. IN DS 20326 8 2 e06d44b80b8f1d39a95c0b0d7c65d08458e880409bbc683457104237c7f8ec8d
+<info>  [1672576090.9100] NetworkManager (version 1.36.6) is starting... (for the first time)
+<info>  [1672576090.9103] Read config: /etc/NetworkManager/NetworkManager.conf (lib: 10-dns-resolved.conf, 20-connectivity-ubuntu.conf, no-mac-addr-change.conf) (run: 10-globally-managed-devices.conf) (etc: default-wifi-powersave-on.conf)
+<info>  [1672576090.9216] bus-manager: acquired D-Bus service "org.freedesktop.NetworkManager"
+<info>  [1672576090.9293] manager[0x564408621040]: monitoring kernel firmware directory '/lib/firmware'.
+<info>  [1672576090.9293] monitoring ifupdown state file '/run/network/ifstate'.
+<info>  [1672576090.9783] hostname: hostname: using hostnamed
+<info>  [1672576090.9783] hostname: static hostname changed from (none) to "bscnode-MS-7C91"
+<info>  [1672576090.9820] dns-mgr[0x5644086002a0]: init: dns=systemd-resolved rc-manager=unmanaged (auto), plugin=systemd-resolved
+<info>  [1672576090.9826] manager[0x564408621040]: rfkill: Wi-Fi hardware radio set enabled
+<info>  [1672576090.9826] manager[0x564408621040]: rfkill: WWAN hardware radio set enabled
+<info>  [1672576090.9934] Loaded device plugin: NMWwanFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.36.6/libnm-device-plugin-wwan.so)
+<info>  [1672576091.0158] Loaded device plugin: NMTeamFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.36.6/libnm-device-plugin-team.so)
+<info>  [1672576091.0174] Loaded device plugin: NMWifiFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.36.6/libnm-device-plugin-wifi.so)
+<info>  [1672576091.0203] Loaded device plugin: NMBluezManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.36.6/libnm-device-plugin-bluetooth.so)
+<info>  [1672576091.0214] Loaded device plugin: NMAtmManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.36.6/libnm-device-plugin-adsl.so)
+<info>  [1672576091.0215] manager: rfkill: Wi-Fi enabled by radio killswitch; enabled by state file
+<info>  [1672576091.0215] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+<info>  [1672576091.0216] manager: Networking is enabled by state file
+<info>  [1672576091.0229] ifupdown: management mode: unmanaged
+<info>  [1672576091.0229] settings: Loaded settings plugin: ifupdown ("/usr/lib/x86_64-linux-gnu/NetworkManager/1.36.6/libnm-settings-plugin-ifupdown.so")
+<info>  [1672576091.0229] settings: Loaded settings plugin: keyfile (internal)
+<info>  [1672576091.0247] ifupdown: interfaces file /etc/network/interfaces doesn't exist
+<info>  [1672576091.0275] device (lo): carrier: link connected
+<info>  [1672576091.0275] dhcp-init: Using DHCP client 'internal'
+<info>  [1672576091.0276] manager: (lo): new Generic device (/org/freedesktop/NetworkManager/Devices/1)
+<info>  [1672576091.0282] manager: (enp42s0): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+<info>  [1672576091.0290] device (enp42s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+<info>  [1672576091.0290] settings: (enp42s0): created default wired connection 'Wired connection 1'
+<info>  [1672576091.2584] manager: (enp9s0): new Ethernet device (/org/freedesktop/NetworkManager/Devices/3)
+<info>  [1672576091.2589] device (enp9s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+<info>  [1672576091.2589] settings: (enp9s0): created default wired connection 'Wired connection 2'
+<info>  [1672576091.4858] failed to open /run/network/ifstate
+<info>  [1672576091.4874] modem-manager: ModemManager available
+<info>  [1672576094.9495] agent-manager: agent[d39a6f3ced8dd7aa,:1.40/org.gnome.Shell.NetworkAgent/125]: agent registered
+<info>  [1672576095.0186] device (enp42s0): carrier: link connected
+<info>  [1672576095.0188] device (enp42s0): state change: unavailable -> disconnected (reason 'carrier-changed', sys-iface-state: 'managed')
+<info>  [1672576095.0191] policy: auto-activating connection 'Wired connection 1' (45836cc5-49fa-3063-bb98-c5b869866446)
+<info>  [1672576095.0193] device (enp42s0): Activation: starting connection 'Wired connection 1' (45836cc5-49fa-3063-bb98-c5b869866446)
+<info>  [1672576095.0193] device (enp42s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+<info>  [1672576095.0194] device (enp42s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+<info>  [1672576095.0194] manager: NetworkManager state is now CONNECTING
+<info>  [1672576095.0197] device (enp42s0): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+<info>  [1672576095.0199] dhcp4 (enp42s0): activation: beginning transaction (timeout in 45 seconds)
+<info>  [1672576096.6165] dhcp6 (enp42s0): activation: beginning transaction (timeout in 45 seconds)
+<info>  [1672576097.4276] dhcp6 (enp42s0): state changed new lease
+<info>  [1672576097.4280] device (enp42s0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+<info>  [1672576097.4297] device (enp42s0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+<info>  [1672576097.4298] device (enp42s0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+<info>  [1672576097.4299] manager: NetworkManager state is now CONNECTED_LOCAL
+<info>  [1672576097.4300] device (enp42s0): Activation: successful, device activated.
+<info>  [1672576097.4857] manager: startup complete
+<info>  [1672576098.0536] manager: (docker0): new Bridge device (/org/freedesktop/NetworkManager/Devices/4)
+<info>  [1672576098.1051] device (docker0): state change: unmanaged -> unavailable (reason 'connection-assumed', sys-iface-state: 'external')
+<info>  [1672576098.1054] device (docker0): state change: unavailable -> disconnected (reason 'connection-assumed', sys-iface-state: 'external')
+<info>  [1672576098.1057] device (docker0): Activation: starting connection 'docker0' (4a739cda-09c6-4cb3-8034-a69f02304486)
+<info>  [1672576098.1068] device (docker0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'external')
+<info>  [1672576098.1069] device (docker0): state change: prepare -> config (reason 'none', sys-iface-state: 'external')
+<info>  [1672576098.1070] device (docker0): state change: config -> ip-config (reason 'none', sys-iface-state: 'external')
+<info>  [1672576098.1071] device (docker0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'external')
+<info>  [1672576098.1080] device (docker0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'external')
+<info>  [1672576098.1081] device (docker0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'external')
+<info>  [1672576098.1083] device (docker0): Activation: successful, device activated.
+<info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:01.2/0000:06:00.2/0000:07:07.0/0000:09:00.0': not supported by any plugin
+<info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:01.2/0000:06:00.2/0000:07:09.0/0000:2a:00.0': not supported by any plugin
+<info>  ModemManager (version 1.18.6) starting in system bus...
+    /init
+Initialise system trusted keyrings
+Initializing XFRM netlink socket
+Initmem setup node 0 [mem 0x0000000000001000-0x000000081f2fffff]
+Inode-cache hash table entries: 2097152 (order: 12, 16777216 bytes, linear)
+input: Gaming KB  Gaming KB  as /devices/pci0000:00/0000:00:01.2/0000:06:00.0/usb1/1-5/1-5:1.0/0003:258A:001A.0003/input/input4
+input: Gaming KB  Gaming KB  Consumer Control as /devices/pci0000:00/0000:00:01.2/0000:06:00.0/usb1/1-5/1-5:1.1/0003:258A:001A.0004/input/input6
+input: Gaming KB  Gaming KB  Keyboard as /devices/pci0000:00/0000:00:01.2/0000:06:00.0/usb1/1-5/1-5:1.1/0003:258A:001A.0004/input/input7
+input: Gaming KB  Gaming KB  System Control as /devices/pci0000:00/0000:00:01.2/0000:06:00.0/usb1/1-5/1-5:1.1/0003:258A:001A.0004/input/input5
+input: HDA ATI HDMI HDMI/DP,pcm=10 as /devices/pci0000:00/0000:00:03.1/0000:2b:00.1/sound/card2/input17
+input: HDA ATI HDMI HDMI/DP,pcm=11 as /devices/pci0000:00/0000:00:03.1/0000:2b:00.1/sound/card2/input18
+input: HDA ATI HDMI HDMI/DP,pcm=3 as /devices/pci0000:00/0000:00:03.1/0000:2b:00.1/sound/card2/input13
+input: HDA ATI HDMI HDMI/DP,pcm=7 as /devices/pci0000:00/0000:00:03.1/0000:2b:00.1/sound/card2/input14
+input: HDA ATI HDMI HDMI/DP,pcm=8 as /devices/pci0000:00/0000:00:03.1/0000:2b:00.1/sound/card2/input15
+input: HDA ATI HDMI HDMI/DP,pcm=9 as /devices/pci0000:00/0000:00:03.1/0000:2b:00.1/sound/card2/input16
+input: HD-Audio Generic Front Headphone as /devices/pci0000:00/0000:00:08.1/0000:2d:00.4/sound/card3/input25
+input: HD-Audio Generic Front Mic as /devices/pci0000:00/0000:00:08.1/0000:2d:00.4/sound/card3/input19
+input: HD-Audio Generic Line as /devices/pci0000:00/0000:00:08.1/0000:2d:00.4/sound/card3/input21
+input: HD-Audio Generic Line Out CLFE as /devices/pci0000:00/0000:00:08.1/0000:2d:00.4/sound/card3/input24
+input: HD-Audio Generic Line Out Front as /devices/pci0000:00/0000:00:08.1/0000:2d:00.4/sound/card3/input22
+input: HD-Audio Generic Line Out Surround as /devices/pci0000:00/0000:00:08.1/0000:2d:00.4/sound/card3/input23
+input: HD-Audio Generic Rear Mic as /devices/pci0000:00/0000:00:08.1/0000:2d:00.4/sound/card3/input20
+input: MSI MYSTIC LIGHT  as /devices/pci0000:00/0000:00:01.2/0000:06:00.0/usb1/1-8/1-8:1.0/0003:1462:7C91.0008/input/input8
+input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input1
+input: Power Button as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0C:00/input/input0
+input: Superlux digit Superlux E205U Consumer Control as /devices/pci0000:00/0000:00:08.1/0000:2d:00.3/usb3/3-4/3-4:1.3/0003:0205:0001.0002/input/input2
+input: USB Gaming Mouse as /devices/pci0000:00/0000:00:01.2/0000:06:00.0/usb1/1-6/1-6:1.0/0003:04D9:AD50.0005/input/input9
+input: USB Gaming Mouse as /devices/pci0000:00/0000:00:01.2/0000:06:00.0/usb1/1-6/1-6:1.1/0003:04D9:AD50.0006/input/input11
+input: USB Gaming Mouse as /devices/pci0000:00/0000:00:01.2/0000:06:00.0/usb1/1-6/1-6:1.1/0003:04D9:AD50.0006/input/input12
+input: USB Gaming Mouse Keyboard as /devices/pci0000:00/0000:00:01.2/0000:06:00.0/usb1/1-6/1-6:1.1/0003:04D9:AD50.0006/input/input10
+Inserted module 'autofs4'
+Inserted module 'ipmi_devintf'
+Inserted module 'lp'
+Inserted module 'msr'
+Inserted module 'parport_pc'
+Inserted module 'ppdev'
+In-situ OAM (IOAM) with IPv6
+integrity: Loaded X.509 cert 'Canonical Ltd. Master Certificate Authority: ad91990bc22ab1f517048c23b6655a268e345a63'
+integrity: Loaded X.509 cert 'Microsoft Corporation UEFI CA 2011: 13adbf4309bd82709c8cd54f316ed522988a1bd4'
+integrity: Loaded X.509 cert 'Microsoft Windows Production PCA 2011: a92902398e16c49778cd90f99e4f9ae17c55af53'
+integrity: Loading X.509 certificate: UEFI:db
+integrity: Loading X.509 certificate: UEFI:MokListRT (MOKvar table)
+integrity: Platform Keyring initialized
+integrity: Revoking X.509 certificate: UEFI:dbx
+  Intel GenuineIntel
+intel_rapl_common: Found RAPL domain core
+intel_rapl_common: Found RAPL domain package
+IOAPIC[0]: apic_id 25, version 33, address 0xfec00000, GSI 0-23
+IOAPIC[1]: apic_id 26, version 33, address 0xfec01000, GSI 24-55
+iommu: Default domain type: Translated 
+iommu: DMA domain TLB invalidation policy: lazy mode 
+io scheduler mq-deadline registered
+IP idents hash table entries: 262144 (order: 9, 2097152 bytes, linear)
+IPI shorthand broadcast: enabled
+ipmi device interface
+IPMI message handler: version 39.2
+IPv6: ADDRCONF(NETDEV_CHANGE): enp42s0: link becomes ready
+Joining mDNS multicast group on interface docker0.IPv4 with address 172.17.0.1.
+Joining mDNS multicast group on interface enp42s0.IPv6 with address fe80::5ec9:d74a:1d8a:6b98.
+Joining mDNS multicast group on interface lo.IPv4 with address 127.0.0.1.
+Joining mDNS multicast group on interface lo.IPv6 with address ::1.
+Journal started
+JS ERROR: Failed to initialize fprintd service: Gio.IOErrorEnum: GDBus.Error:net.reactivated.Fprint.Error.NoSuchDevice: No devices available
+kauditd_printk_skb: 54 callbacks suppressed
+  KEK:
+Kernel command line: BOOT_IMAGE=/vmlinuz-5.15.0-56-generic root=UUID=e3d1fba6-f9ab-4e88-afe1-c0c3fa4c9c72 ro quiet splash vt.handoff=7
+kerneloops.service: Found left-over process 1882 (kerneloops) in control group while starting unit. Ignoring.
+KERNEL supported cpus:
+Key type asymmetric registered
+Key type blacklist registered
+Key type dns_resolver registered
+Key type encrypted registered
+Key type fscrypt-provisioning registered
+Key type ._fscrypt registered
+Key type .fscrypt registered
+Key type trusted registered
+Kprobes globally optimized
+kvm: disabled by bios
+landlock: Up and running.
+Last level dTLB entries: 4KB 2048, 2MB 2048, 4MB 1024, 1GB 0
+Last level iTLB entries: 4KB 512, 2MB 512, 4MB 256
+last_pfn = 0x81f300 max_arch_pfn = 0x400000000
+last_pfn = 0xdf000 max_arch_pfn = 0x400000000
+ledtrig-cpu: registered to indicate activity on CPUs
+libata version 3.00 loaded.
+Linux agpgart interface v0.103
+Linux version 5.15.0-56-generic (buildd@lcy02-amd64-004) (gcc (Ubuntu 11.3.0-1ubuntu1~22.04) 11.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #62-Ubuntu SMP Tue Nov 22 19:54:14 UTC 2022 (Ubuntu 5.15.0-56.62-generic 5.15.64)
+Listening on ACPID Listen Socket.
+Listening on Avahi mDNS/DNS-SD Stack Activation Socket.
+Listening on CUPS Scheduler.
+Listening on D-Bus System Message Bus Socket.
+Listening on D-Bus User Message Bus Socket.
+Listening on debconf communication socket.
+Listening on Docker Socket for the API.
+Listening on fsck to fsckd communication Socket.
+Listening on GnuPG cryptographic agent and passphrase cache.
+Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Listening on GnuPG network certificate management daemon.
+Listening on initctl Compatibility Named Pipe.
+Listening on Journal Audit Socket.
+Listening on Journal Socket.
+Listening on Journal Socket (/dev/log).
+Listening on Load/Save RF Kill Switch Status /dev/rfkill Watch.
+Listening on PipeWire Multimedia System Socket.
+Listening on REST API socket for snapd user session agent.
+Listening on Socket activation for snappy daemon.
+Listening on Sound System.
+Listening on Syslog Socket.
+Listening on udev Control Socket.
+Listening on udev Kernel Socket.
+Listening on UUID daemon activation socket.
+Loaded X.509 cert 'Build time autogenerated kernel key: e377a8d98910596b8bf176f042050e2efd9d6422'
+Loaded X.509 cert 'Canonical Ltd. Kernel Module Signing: 88f752e560a1e0737e31163a466ad7b70a850c19'
+Loaded X.509 cert 'Canonical Ltd. Live Patch Signing: 14df34d1a87cf37625abec039ef2bf521249b969'
+Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing: 61482aa2830d0ab2ad5af10b7250da9033ddcef0'
+Loading compiled-in module X.509 certificates
+Loading compiled-in X.509 certificates
+loop0: detected capacity change from 0 to 8
+loop10: detected capacity change from 0 to 215448
+loop11: detected capacity change from 0 to 203968
+loop12: detected capacity change from 0 to 187776
+loop13: detected capacity change from 0 to 166424
+loop14: detected capacity change from 0 to 59632
+loop15: detected capacity change from 0 to 1880
+loop16: detected capacity change from 0 to 893552
+loop17: detected capacity change from 0 to 43152
+loop18: detected capacity change from 0 to 101160
+loop19: detected capacity change from 0 to 94056
+loop1: detected capacity change from 0 to 238984
+loop20: detected capacity change from 0 to 94064
+loop21: detected capacity change from 0 to 101624
+loop22: detected capacity change from 0 to 608
+loop23: detected capacity change from 0 to 608
+loop24: detected capacity change from 0 to 8
+loop2: detected capacity change from 0 to 113896
+loop3: detected capacity change from 0 to 113888
+loop4: detected capacity change from 0 to 129496
+loop5: detected capacity change from 0 to 129584
+loop6: detected capacity change from 0 to 486424
+loop7: detected capacity change from 0 to 488312
+loop8: detected capacity change from 0 to 709216
+loop9: detected capacity change from 0 to 709280
+loop: module loaded
+lp: driver loaded but no devices found
+LSM: Security Framework initializing
+LVT offset 0 assigned for vector 0x400
+LVT offset 1 assigned for vector 0xf9
+LVT offset 2 assigned for vector 0xf4
+... max period:             00007fffffffffff
+MCE: In-kernel MCE decoding enabled.
+mc: Linux media interface: v0.10
+[mem 0xe0000000-0xefffffff] available for PCI devices
+mem auto-init: stack:off, heap alloc:on, heap free:off
+Memory: 32630760K/33478000K available (16393K kernel code, 4378K rwdata, 10812K rodata, 3232K init, 6568K bss, 846980K reserved, 0K cma-reserved)
+microcode: CPU0: patch_level=0x0a201016
+microcode: CPU10: patch_level=0x0a201016
+microcode: CPU11: patch_level=0x0a201016
+microcode: CPU12: patch_level=0x0a201016
+microcode: CPU13: patch_level=0x0a201016
+microcode: CPU14: patch_level=0x0a201016
+microcode: CPU15: patch_level=0x0a201016
+microcode: CPU16: patch_level=0x0a201016
+microcode: CPU17: patch_level=0x0a201016
+microcode: CPU18: patch_level=0x0a201016
+microcode: CPU19: patch_level=0x0a201016
+microcode: CPU1: patch_level=0x0a201016
+microcode: CPU20: patch_level=0x0a201016
+microcode: CPU21: patch_level=0x0a201016
+microcode: CPU22: patch_level=0x0a201016
+microcode: CPU23: patch_level=0x0a201016
+microcode: CPU2: patch_level=0x0a201016
+microcode: CPU3: patch_level=0x0a201016
+microcode: CPU4: patch_level=0x0a201016
+microcode: CPU5: patch_level=0x0a201016
+microcode: CPU6: patch_level=0x0a201016
+microcode: CPU7: patch_level=0x0a201016
+microcode: CPU8: patch_level=0x0a201016
+microcode: CPU9: patch_level=0x0a201016
+microcode: Microcode Update Driver: v2.2.
+modprobe@chromeos_pstore.service: Deactivated successfully.
+modprobe@configfs.service: Deactivated successfully.
+modprobe@drm.service: Deactivated successfully.
+modprobe@efi_pstore.service: Deactivated successfully.
+modprobe@fuse.service: Deactivated successfully.
+modprobe@pstore_blk.service: Deactivated successfully.
+modprobe@pstore_zone.service: Deactivated successfully.
+modprobe@ramoops.service: Deactivated successfully.
+Monitor-Mwait will be used to enter C-1 state
+Mount-cache hash table entries: 65536 (order: 7, 524288 bytes, linear)
+Mounted Arbitrary Executable File Formats File System.
+Mounted /boot.
+Mounted /boot/efi.
+Mounted /data.
+Mounted FUSE Control File System.
+Mounted Huge Pages File System.
+Mounted Kernel Configuration File System.
+Mounted Kernel Debug File System.
+Mounted Kernel Trace File System.
+Mounted Mount unit for bare, revision 5.
+Mounted Mount unit for core18, revision 2654.
+Mounted Mount unit for core18, revision 2667.
+Mounted Mount unit for core20, revision 1738.
+Mounted Mount unit for core20, revision 1778.
+Mounted Mount unit for core, revision 14399.
+Mounted Mount unit for firefox, revision 1943 via mount-control.
+Mounted Mount unit for firefox, revision 2154.
+Mounted Mount unit for firefox, revision 2211.
+Mounted Mount unit for gnome-3-38-2004, revision 115.
+Mounted Mount unit for gnome-3-38-2004, revision 119.
+Mounted Mount unit for go, revision 10008.
+Mounted Mount unit for go, revision 9991.
+Mounted Mount unit for gtk-common-themes, revision 1534.
+Mounted Mount unit for gtk-common-themes, revision 1535.
+Mounted Mount unit for ipfs, revision 3709.
+Mounted Mount unit for ipfs, revision 3744.
+Mounted Mount unit for kde-frameworks-5-96-qt-5-15-5-core20, revision 7.
+Mounted Mount unit for keepassxc, revision 1645.
+Mounted Mount unit for prettier, revision 3.
+Mounted Mount unit for snapd-desktop-integration, revision 43.
+Mounted Mount unit for snapd-desktop-integration, revision 49.
+Mounted Mount unit for snapd, revision 17883.
+Mounted Mount unit for snap-store, revision 599.
+Mounted Mount unit for snap-store, revision 638.
+Mounted POSIX Message Queue File System.
+Mounting Arbitrary Executable File Formats File System...
+Mounting /boot...
+Mounting /boot/efi...
+Mounting /data...
+Mounting FUSE Control File System...
+Mounting Huge Pages File System...
+Mounting Kernel Configuration File System...
+Mounting Kernel Debug File System...
+Mounting Kernel Trace File System...
+Mounting Mount unit for bare, revision 5...
+Mounting Mount unit for core18, revision 2654...
+Mounting Mount unit for core18, revision 2667...
+Mounting Mount unit for core20, revision 1738...
+Mounting Mount unit for core20, revision 1778...
+Mounting Mount unit for core, revision 14399...
+Mounting Mount unit for firefox, revision 1943 via mount-control...
+Mounting Mount unit for firefox, revision 2154...
+Mounting Mount unit for firefox, revision 2211...
+Mounting Mount unit for gnome-3-38-2004, revision 115...
+Mounting Mount unit for gnome-3-38-2004, revision 119...
+Mounting Mount unit for go, revision 10008...
+Mounting Mount unit for go, revision 9991...
+Mounting Mount unit for gtk-common-themes, revision 1534...
+Mounting Mount unit for gtk-common-themes, revision 1535...
+Mounting Mount unit for ipfs, revision 3709...
+Mounting Mount unit for ipfs, revision 3744...
+Mounting Mount unit for kde-frameworks-5-96-qt-5-15-5-core20, revision 7...
+Mounting Mount unit for keepassxc, revision 1645...
+Mounting Mount unit for prettier, revision 3...
+Mounting Mount unit for snapd-desktop-integration, revision 43...
+Mounting Mount unit for snapd-desktop-integration, revision 49...
+Mounting Mount unit for snapd, revision 17883...
+Mounting Mount unit for snap-store, revision 599...
+Mounting Mount unit for snap-store, revision 638...
+Mounting POSIX Message Queue File System...
+Mountpoint-cache hash table entries: 65536 (order: 7, 524288 bytes, linear)
+mousedev: PS/2 mouse device common for all mice
+Movable zone start for each node
+MPTCP token hash table entries: 32768 (order: 7, 786432 bytes, linear)
+Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa corp home internal intranet lan local private test
+NetLabel:  domain hash size = 128
+NetLabel: Initializing
+NetLabel:  protocols = UNLABELED CIPSOv4 CALIPSO
+NetLabel:  unlabeled traffic allowed by default
+NET: Registered PF_INET6 protocol family
+NET: Registered PF_INET protocol family
+NET: Registered PF_NETLINK/PF_ROUTE protocol family
+NET: Registered PF_PACKET protocol family
+NET: Registered PF_UNIX/PF_LOCAL protocol family
+NET: Registered PF_XDP protocol family
+Network interface enumeration completed.
+New keys in filesystem:
+New relevant interface docker0.IPv4 for mDNS.
+New relevant interface enp42s0.IPv6 for mDNS.
+New relevant interface lo.IPv4 for mDNS.
+New relevant interface lo.IPv6 for mDNS.
+New seat seat0.
+New session c1 of user gdm.
+NMI watchdog: Enabled. Permanently consumes one hw-PMU counter.
+.... node  #0, CPUs:        #1  #2  #3  #4  #5  #6  #7  #8  #9 #10 #11 #12
+  node   0: [mem 0x0000000000001000-0x000000000009ffff]
+  node   0: [mem 0x0000000000100000-0x0000000009e01fff]
+  node   0: [mem 0x000000000a000000-0x000000000a1fffff]
+  node   0: [mem 0x000000000a20e000-0x000000000affffff]
+  node   0: [mem 0x000000000b020000-0x00000000db0e7fff]
+  node   0: [mem 0x00000000ddbff000-0x00000000deffffff]
+  node   0: [mem 0x0000000100000000-0x000000081f2fffff]
+NODE_DATA(0) allocated [mem 0x81f2d6000-0x81f2fffff]
+No NUMA configuration found
+Normal exit (0 jobs run)
+  Normal   [mem 0x0000000100000000-0x000000081f2fffff]
+No service file found in /etc/avahi/services.
+Not generating service for XDG autostart app-orca\x2dautostart@autostart.service, error parsing Exec= line: No such file or directory
+NR_IRQS: 524544, nr_irqs: 1224, preallocated irqs: 16
+ nvme0n1: p1 p2
+nvme0n1p1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1p1' failed with exit code 1.
+nvme0n1p2: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1p2' failed with exit code 1.
+nvme0n1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1' failed with exit code 1.
+ nvme1n1: p1 p2 p3
+nvme1n1p1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme1n1p1' failed with exit code 1.
+nvme1n1p2: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme1n1p2' failed with exit code 1.
+nvme1n1p3: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme1n1p3' failed with exit code 1.
+nvme1n1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme1n1' failed with exit code 1.
+nvme nvme0: 32/0/0 default/read/poll queues
+nvme nvme0: missing or invalid SUBNQN field.
+nvme nvme0: pci function 0000:01:00.0
+nvme nvme0: Shutdown timeout set to 8 seconds
+nvme nvme1: 15/0/0 default/read/poll queues
+nvme nvme1: missing or invalid SUBNQN field.
+nvme nvme1: pci function 0000:08:00.0
+NX (Execute Disable) protection: active
+ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+ohci-pci: OHCI PCI platform driver
+ohci-platform: OHCI generic platform driver
+On node 0, zone DMA: 1 pages in unavailable ranges
+On node 0, zone DMA32: 11031 pages in unavailable ranges
+On node 0, zone DMA32: 14 pages in unavailable ranges
+On node 0, zone DMA32: 32 pages in unavailable ranges
+On node 0, zone DMA32: 510 pages in unavailable ranges
+On node 0, zone DMA: 96 pages in unavailable ranges
+On node 0, zone Normal: 3328 pages in unavailable ranges
+On node 0, zone Normal: 4096 pages in unavailable ranges
+[origin software="rsyslogd" swVersion="8.2112.0" x-pid="906" x-info="https://www.rsyslog.com"] start
+overlord.go:263: Acquiring state lock file
+overlord.go:268: Acquired state lock file
+pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=125) by (uid=0)
+pam_unix(systemd-user:session): session opened for user gdm(uid=125) by (uid=0)
+pci 0000:00:00.0: [1022:1480] type 00 class 0x060000
+pci 0000:00:00.2: [1022:1481] type 00 class 0x080600
+pci 0000:00:00.2: AMD-Vi: Found IOMMU cap 0x40
+pci 0000:00:00.2: AMD-Vi: IOMMU performance counters supported
+pci 0000:00:01.0: [1022:1482] type 00 class 0x060000
+pci 0000:00:01.0: Adding to iommu group 0
+pci 0000:00:01.1: [1022:1483] type 01 class 0x060400
+pci 0000:00:01.1: Adding to iommu group 1
+pci 0000:00:01.1:   bridge window [mem 0xfcd00000-0xfcefffff]
+pci 0000:00:01.1: enabling Extended Tags
+pci 0000:00:01.1: PCI bridge to [bus 01-05]
+pci 0000:00:01.1: PME# supported from D0 D3hot D3cold
+pci 0000:00:01.2: [1022:1483] type 01 class 0x060400
+pci 0000:00:01.2: Adding to iommu group 2
+pci 0000:00:01.2:   bridge window [io  0xd000-0xefff]
+pci 0000:00:01.2:   bridge window [mem 0xfc600000-0xfc9fffff]
+pci 0000:00:01.2: enabling Extended Tags
+pci 0000:00:01.2: PCI bridge to [bus 06-2a]
+pci 0000:00:01.2: PME# supported from D0 D3hot D3cold
+pci 0000:00:02.0: [1022:1482] type 00 class 0x060000
+pci 0000:00:02.0: Adding to iommu group 3
+pci 0000:00:03.0: [1022:1482] type 00 class 0x060000
+pci 0000:00:03.0: Adding to iommu group 4
+pci 0000:00:03.1: [1022:1483] type 01 class 0x060400
+pci 0000:00:03.1: Adding to iommu group 5
+pci 0000:00:03.1:   bridge window [io  0xf000-0xffff]
+pci 0000:00:03.1:   bridge window [mem 0xe0000000-0xefffffff 64bit pref]
+pci 0000:00:03.1:   bridge window [mem 0xfcf00000-0xfcffffff]
+pci 0000:00:03.1: PCI bridge to [bus 2b]
+pci 0000:00:03.1: PME# supported from D0 D3hot D3cold
+pci 0000:00:04.0: [1022:1482] type 00 class 0x060000
+pci 0000:00:04.0: Adding to iommu group 6
+pci 0000:00:05.0: [1022:1482] type 00 class 0x060000
+pci 0000:00:05.0: Adding to iommu group 7
+pci 0000:00:07.0: [1022:1482] type 00 class 0x060000
+pci 0000:00:07.0: Adding to iommu group 8
+pci 0000:00:07.1: [1022:1484] type 01 class 0x060400
+pci 0000:00:07.1: Adding to iommu group 9
+pci 0000:00:07.1: enabling Extended Tags
+pci 0000:00:07.1: PCI bridge to [bus 2c]
+pci 0000:00:07.1: PME# supported from D0 D3hot D3cold
+pci 0000:00:08.0: [1022:1482] type 00 class 0x060000
+pci 0000:00:08.0: Adding to iommu group 10
+pci 0000:00:08.1: [1022:1484] type 01 class 0x060400
+pci 0000:00:08.1: Adding to iommu group 11
+pci 0000:00:08.1:   bridge window [mem 0xfca00000-0xfccfffff]
+pci 0000:00:08.1: enabling Extended Tags
+pci 0000:00:08.1: PCI bridge to [bus 2d]
+pci 0000:00:08.1: PME# supported from D0 D3hot D3cold
+pci 0000:00:14.0: [1022:790b] type 00 class 0x0c0500
+pci 0000:00:14.0: Adding to iommu group 12
+pci 0000:00:14.3: [1022:790e] type 00 class 0x060100
+pci 0000:00:14.3: Adding to iommu group 12
+pci 0000:00:18.0: [1022:1440] type 00 class 0x060000
+pci 0000:00:18.0: Adding to iommu group 13
+pci 0000:00:18.1: [1022:1441] type 00 class 0x060000
+pci 0000:00:18.1: Adding to iommu group 13
+pci 0000:00:18.2: [1022:1442] type 00 class 0x060000
+pci 0000:00:18.2: Adding to iommu group 13
+pci 0000:00:18.3: [1022:1443] type 00 class 0x060000
+pci 0000:00:18.3: Adding to iommu group 13
+pci 0000:00:18.4: [1022:1444] type 00 class 0x060000
+pci 0000:00:18.4: Adding to iommu group 13
+pci 0000:00:18.5: [1022:1445] type 00 class 0x060000
+pci 0000:00:18.5: Adding to iommu group 13
+pci 0000:00:18.6: [1022:1446] type 00 class 0x060000
+pci 0000:00:18.6: Adding to iommu group 13
+pci 0000:00:18.7: [1022:1447] type 00 class 0x060000
+pci 0000:00:18.7: Adding to iommu group 13
+pci 0000:01:00.0: [144d:a808] type 00 class 0x010802
+pci 0000:01:00.0: Adding to iommu group 14
+pci 0000:01:00.0: reg 0x10: [mem 0xfcea0000-0xfcea3fff 64bit]
+pci 0000:06:00.0: [1022:43ee] type 00 class 0x0c0330
+pci 0000:06:00.0: Adding to iommu group 15
+pci 0000:06:00.0: enabling Extended Tags
+pci 0000:06:00.0: PME# supported from D3hot D3cold
+pci 0000:06:00.0: reg 0x10: [mem 0xfc9a0000-0xfc9a7fff 64bit]
+pci 0000:06:00.1: [1022:43eb] type 00 class 0x010601
+pci 0000:06:00.1: Adding to iommu group 15
+pci 0000:06:00.1: enabling Extended Tags
+pci 0000:06:00.1: PME# supported from D3hot D3cold
+pci 0000:06:00.1: reg 0x24: [mem 0xfc980000-0xfc99ffff]
+pci 0000:06:00.1: reg 0x30: [mem 0xfc900000-0xfc97ffff pref]
+pci 0000:06:00.2: [1022:43e9] type 01 class 0x060400
+pci 0000:06:00.2: Adding to iommu group 15
+pci 0000:06:00.2:   bridge window [io  0xd000-0xefff]
+pci 0000:06:00.2:   bridge window [mem 0xfc600000-0xfc8fffff]
+pci 0000:06:00.2: enabling Extended Tags
+pci 0000:06:00.2: PCI bridge to [bus 07-2a]
+pci 0000:06:00.2: PME# supported from D3hot D3cold
+pci 0000:07:00.0: [1022:43ea] type 01 class 0x060400
+pci 0000:07:00.0: Adding to iommu group 15
+pci 0000:07:00.0:   bridge window [mem 0xfc800000-0xfc8fffff]
+pci 0000:07:00.0: enabling Extended Tags
+pci 0000:07:00.0: PCI bridge to [bus 08]
+pci 0000:07:00.0: PME# supported from D3hot D3cold
+pci 0000:07:07.0: [1022:43ea] type 01 class 0x060400
+pci 0000:07:07.0: Adding to iommu group 15
+pci 0000:07:07.0:   bridge window [io  0xe000-0xefff]
+pci 0000:07:07.0:   bridge window [mem 0xfc700000-0xfc7fffff]
+pci 0000:07:07.0: enabling Extended Tags
+pci 0000:07:07.0: PCI bridge to [bus 09]
+pci 0000:07:07.0: PME# supported from D3hot D3cold
+pci 0000:07:09.0: [1022:43ea] type 01 class 0x060400
+pci 0000:07:09.0: Adding to iommu group 15
+pci 0000:07:09.0:   bridge window [io  0xd000-0xdfff]
+pci 0000:07:09.0:   bridge window [mem 0xfc600000-0xfc6fffff]
+pci 0000:07:09.0: enabling Extended Tags
+pci 0000:07:09.0: PCI bridge to [bus 2a]
+pci 0000:07:09.0: PME# supported from D3hot D3cold
+pci 0000:08:00.0: [2646:2263] type 00 class 0x010802
+pci 0000:08:00.0: Adding to iommu group 15
+pci 0000:08:00.0: reg 0x10: [mem 0xfc800000-0xfc803fff 64bit]
+pci 0000:09:00.0: [10ec:8168] type 00 class 0x020000
+pci 0000:09:00.0: Adding to iommu group 15
+pci 0000:09:00.0: PME# supported from D0 D1 D2 D3hot D3cold
+pci 0000:09:00.0: reg 0x10: [io  0xe000-0xe0ff]
+pci 0000:09:00.0: reg 0x18: [mem 0xfc704000-0xfc704fff 64bit]
+pci 0000:09:00.0: reg 0x20: [mem 0xfc700000-0xfc703fff 64bit]
+pci 0000:09:00.0: supports D1 D2
+pci 0000:2a:00.0: [10ec:8125] type 00 class 0x020000
+pci 0000:2a:00.0: Adding to iommu group 15
+pci 0000:2a:00.0: PME# supported from D0 D1 D2 D3hot D3cold
+pci 0000:2a:00.0: reg 0x10: [io  0xd000-0xd0ff]
+pci 0000:2a:00.0: reg 0x18: [mem 0xfc600000-0xfc60ffff 64bit]
+pci 0000:2a:00.0: reg 0x20: [mem 0xfc610000-0xfc613fff 64bit]
+pci 0000:2a:00.0: supports D1 D2
+pci 0000:2b:00.0: [1002:6819] type 00 class 0x030000
+pci 0000:2b:00.0: Adding to iommu group 16
+pci 0000:2b:00.0: BAR 0: assigned to efifb
+pci 0000:2b:00.0: PME# supported from D1 D2 D3hot
+pci 0000:2b:00.0: reg 0x10: [mem 0xe0000000-0xefffffff 64bit pref]
+pci 0000:2b:00.0: reg 0x18: [mem 0xfcf00000-0xfcf3ffff 64bit]
+pci 0000:2b:00.0: reg 0x20: [io  0xf000-0xf0ff]
+pci 0000:2b:00.0: reg 0x30: [mem 0xfcf40000-0xfcf5ffff pref]
+pci 0000:2b:00.0: supports D1 D2
+pci 0000:2b:00.0: vgaarb: bridge control possible
+pci 0000:2b:00.0: vgaarb: setting as boot VGA device
+pci 0000:2b:00.0: vgaarb: VGA device added: decodes=io+mem,owns=io+mem,locks=none
+pci 0000:2b:00.0: Video device with shadowed ROM at [mem 0x000c0000-0x000dffff]
+pci 0000:2b:00.1: [1002:aab0] type 00 class 0x040300
+pci 0000:2b:00.1: Adding to iommu group 16
+pci 0000:2b:00.1: D0 power state depends on 0000:2b:00.0
+pci 0000:2b:00.1: reg 0x10: [mem 0xfcf60000-0xfcf63fff 64bit]
+pci 0000:2b:00.1: supports D1 D2
+pci 0000:2c:00.0: [1022:148a] type 00 class 0x130000
+pci 0000:2c:00.0: Adding to iommu group 17
+pci 0000:2c:00.0: enabling Extended Tags
+pci 0000:2d:00.0: [1022:1485] type 00 class 0x130000
+pci 0000:2d:00.0: Adding to iommu group 18
+pci 0000:2d:00.0: enabling Extended Tags
+pci 0000:2d:00.1: [1022:1486] type 00 class 0x108000
+pci 0000:2d:00.1: Adding to iommu group 19
+pci 0000:2d:00.1: enabling Extended Tags
+pci 0000:2d:00.1: reg 0x18: [mem 0xfcb00000-0xfcbfffff]
+pci 0000:2d:00.1: reg 0x24: [mem 0xfcc08000-0xfcc09fff]
+pci 0000:2d:00.3: [1022:149c] type 00 class 0x0c0330
+pci 0000:2d:00.3: Adding to iommu group 20
+pci 0000:2d:00.3: enabling Extended Tags
+pci 0000:2d:00.3: PME# supported from D0 D3hot D3cold
+pci 0000:2d:00.3: reg 0x10: [mem 0xfca00000-0xfcafffff 64bit]
+pci 0000:2d:00.4: [1022:1487] type 00 class 0x040300
+pci 0000:2d:00.4: Adding to iommu group 21
+pci 0000:2d:00.4: enabling Extended Tags
+pci 0000:2d:00.4: PME# supported from D0 D3hot D3cold
+pci 0000:2d:00.4: reg 0x10: [mem 0xfcc00000-0xfcc07fff]
+pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7 window]
+pci_bus 0000:00: resource 5 [io  0x0d00-0xffff window]
+pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000dffff window]
+pci_bus 0000:00: resource 7 [mem 0xe0000000-0xfec2ffff window]
+pci_bus 0000:00: resource 8 [mem 0xfee00000-0xffffffff window]
+pci_bus 0000:00: root bus resource [bus 00-ff]
+pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7 window]
+pci_bus 0000:00: root bus resource [io  0x0d00-0xffff window]
+pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000dffff window]
+pci_bus 0000:00: root bus resource [mem 0xe0000000-0xfec2ffff window]
+pci_bus 0000:00: root bus resource [mem 0xfee00000-0xffffffff window]
+pci_bus 0000:01: resource 1 [mem 0xfcd00000-0xfcefffff]
+pci_bus 0000:06: resource 0 [io  0xd000-0xefff]
+pci_bus 0000:06: resource 1 [mem 0xfc600000-0xfc9fffff]
+pci_bus 0000:07: resource 0 [io  0xd000-0xefff]
+pci_bus 0000:07: resource 1 [mem 0xfc600000-0xfc8fffff]
+pci_bus 0000:08: resource 1 [mem 0xfc800000-0xfc8fffff]
+pci_bus 0000:09: resource 0 [io  0xe000-0xefff]
+pci_bus 0000:09: resource 1 [mem 0xfc700000-0xfc7fffff]
+pci_bus 0000:2a: resource 0 [io  0xd000-0xdfff]
+pci_bus 0000:2a: resource 1 [mem 0xfc600000-0xfc6fffff]
+pci_bus 0000:2b: resource 0 [io  0xf000-0xffff]
+pci_bus 0000:2b: resource 1 [mem 0xfcf00000-0xfcffffff]
+pci_bus 0000:2b: resource 2 [mem 0xe0000000-0xefffffff 64bit pref]
+pci_bus 0000:2d: resource 1 [mem 0xfca00000-0xfccfffff]
+PCI: CLS 64 bytes, default 64
+PCI-DMA: Using software bounce buffering for IO (SWIOTLB)
+pcieport 0000:00:01.1: AER: enabled with IRQ 27
+pcieport 0000:00:01.2: AER: enabled with IRQ 28
+pcieport 0000:00:03.1: AER: enabled with IRQ 29
+pcieport 0000:00:07.1: AER: enabled with IRQ 31
+pcieport 0000:00:08.1: AER: enabled with IRQ 32
+PCI host bridge to bus 0000:00
+PCI: MMCONFIG at [mem 0xf0000000-0xf7ffffff] reserved in E820
+PCI: MMCONFIG for domain 0000 [bus 00-7f] at [mem 0xf0000000-0xf7ffffff] (base 0xf0000000)
+PCI: pci_cache_line_size set to 64 bytes
+PCI: Using ACPI for IRQ routing
+PCI: Using configuration type 1 for base access
+PCI: Using E820 reservations for host bridge windows
+PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+pcpu-alloc: [0] 00 01 02 03 04 05 06 07 [0] 08 09 10 11 12 13 14 15 
+pcpu-alloc: [0] 16 17 18 19 20 21 22 23 [0] 24 25 26 27 28 29 30 31 
+pcpu-alloc: s208896 r8192 d28672 u262144 alloc=1*2097152
+percpu: Embedded 60 pages/cpu s208896 r8192 d28672 u262144
+perf: AMD IBS detected (0x000003ff)
+perf/amd_iommu: Detected AMD IOMMU #0 (2 banks, 4 counters/bank).
+Performance Events: Fam17h+ core perfctr, AMD PMU driver.
+pid_max: default: 32768 minimum: 301
+piix4_smbus 0000:00:14.0: Auxiliary SMBus Host Controller at 0xb20
+piix4_smbus 0000:00:14.0: SMBus Host Controller at 0xb00, revision 0
+piix4_smbus 0000:00:14.0: Using register 0x02 for SMBus port selection
+pinctrl core: initialized pinctrl subsystem
+  PK:
+platform eisa.0: Cannot allocate resource for EISA slot 1
+platform eisa.0: Cannot allocate resource for EISA slot 2
+platform eisa.0: Cannot allocate resource for EISA slot 3
+platform eisa.0: Cannot allocate resource for EISA slot 4
+platform eisa.0: Cannot allocate resource for EISA slot 5
+platform eisa.0: Cannot allocate resource for EISA slot 6
+platform eisa.0: Cannot allocate resource for EISA slot 7
+platform eisa.0: Cannot allocate resource for EISA slot 8
+platform eisa.0: EISA: Cannot allocate resource for mainboard
+platform eisa.0: EISA: Detected 0 cards
+platform eisa.0: Probing EISA bus 0
+Please use "-listenfd" instead.
+PM: hibernation: Registered nosave memory: [mem 0x00000000-0x00000fff]
+PM: hibernation: Registered nosave memory: [mem 0x000a0000-0x000fffff]
+PM: hibernation: Registered nosave memory: [mem 0x09e02000-0x09ffffff]
+PM: hibernation: Registered nosave memory: [mem 0x0a200000-0x0a20dfff]
+PM: hibernation: Registered nosave memory: [mem 0x0b000000-0x0b01ffff]
+PM: hibernation: Registered nosave memory: [mem 0xd6949000-0xd6949fff]
+PM: hibernation: Registered nosave memory: [mem 0xd6959000-0xd6959fff]
+PM: hibernation: Registered nosave memory: [mem 0xd695a000-0xd695afff]
+PM: hibernation: Registered nosave memory: [mem 0xd6967000-0xd6967fff]
+PM: hibernation: Registered nosave memory: [mem 0xd6968000-0xd6968fff]
+PM: hibernation: Registered nosave memory: [mem 0xd6976000-0xd6976fff]
+PM: hibernation: Registered nosave memory: [mem 0xd6ac3000-0xd6b1ffff]
+PM: hibernation: Registered nosave memory: [mem 0xd6b22000-0xd6b22fff]
+PM: hibernation: Registered nosave memory: [mem 0xdb0e8000-0xdb4a3fff]
+PM: hibernation: Registered nosave memory: [mem 0xdb4a4000-0xdb507fff]
+PM: hibernation: Registered nosave memory: [mem 0xdb508000-0xdcc06fff]
+PM: hibernation: Registered nosave memory: [mem 0xdcc07000-0xddbfefff]
+PM: hibernation: Registered nosave memory: [mem 0xdf000000-0xdfffffff]
+PM: hibernation: Registered nosave memory: [mem 0xe0000000-0xefffffff]
+PM: hibernation: Registered nosave memory: [mem 0xf0000000-0xf7ffffff]
+PM: hibernation: Registered nosave memory: [mem 0xf8000000-0xfd1fffff]
+PM: hibernation: Registered nosave memory: [mem 0xfd200000-0xfd2fffff]
+PM: hibernation: Registered nosave memory: [mem 0xfd300000-0xfd5fffff]
+PM: hibernation: Registered nosave memory: [mem 0xfd600000-0xfd7fffff]
+PM: hibernation: Registered nosave memory: [mem 0xfd800000-0xfe9fffff]
+PM: hibernation: Registered nosave memory: [mem 0xfea00000-0xfea0ffff]
+PM: hibernation: Registered nosave memory: [mem 0xfea10000-0xfeb7ffff]
+PM: hibernation: Registered nosave memory: [mem 0xfeb80000-0xfec01fff]
+PM: hibernation: Registered nosave memory: [mem 0xfec02000-0xfec0ffff]
+PM: hibernation: Registered nosave memory: [mem 0xfec10000-0xfec10fff]
+PM: hibernation: Registered nosave memory: [mem 0xfec11000-0xfec2ffff]
+PM: hibernation: Registered nosave memory: [mem 0xfec30000-0xfec30fff]
+PM: hibernation: Registered nosave memory: [mem 0xfec31000-0xfecfffff]
+PM: hibernation: Registered nosave memory: [mem 0xfed00000-0xfed00fff]
+PM: hibernation: Registered nosave memory: [mem 0xfed01000-0xfed3ffff]
+PM: hibernation: Registered nosave memory: [mem 0xfed40000-0xfed44fff]
+PM: hibernation: Registered nosave memory: [mem 0xfed45000-0xfed7ffff]
+PM: hibernation: Registered nosave memory: [mem 0xfed80000-0xfed8ffff]
+PM: hibernation: Registered nosave memory: [mem 0xfed90000-0xfedc1fff]
+PM: hibernation: Registered nosave memory: [mem 0xfedc2000-0xfedcffff]
+PM: hibernation: Registered nosave memory: [mem 0xfedd0000-0xfedd3fff]
+PM: hibernation: Registered nosave memory: [mem 0xfedd4000-0xfedd5fff]
+PM: hibernation: Registered nosave memory: [mem 0xfedd6000-0xfeffffff]
+PM: hibernation: Registered nosave memory: [mem 0xff000000-0xffffffff]
+PM:   Magic number: 7:241:480
+PM: RTC time: 12:28:06, date: 2023-01-01
+pnp: PnP ACPI: found 5 devices
+pnp: PnP ACPI init
+Policy zone: Normal
+Positive Trust Anchors:
+ppdev: user-space parallel port driver
+PPP generic driver version 2.4.2
+pps_core: LinuxPPS API ver. 1 registered
+pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>
+printk: console [tty0] enabled
+Process accounting resumed
+proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 770 (update-binfmts)
+pstore: Registered efi as persistent store backend
+pstore: Using crash dump compression: deflate
+PTP clock support registered
+Queued start job for default target Graphical Interface.
+Queued start job for default target Main User Target.
+r8169 0000:09:00.0 enp9s0: Link is Down
+r8169 0000:09:00.0 enp9s0: renamed from eth0
+r8169 0000:09:00.0 eth0: jumbo features [frames: 9194 bytes, tx checksumming: ko]
+r8169 0000:09:00.0 eth0: RTL8168h/8111h, d8:bb:c1:39:6f:35, XID 541, IRQ 92
+r8169 0000:2a:00.0 enp42s0: Link is Down
+r8169 0000:2a:00.0 enp42s0: Link is Up - 1Gbps/Full - flow control off
+r8169 0000:2a:00.0 enp42s0: renamed from eth1
+r8169 0000:2a:00.0 eth1: jumbo features [frames: 9194 bytes, tx checksumming: ko]
+r8169 0000:2a:00.0 eth1: RTL8125B, d8:bb:c1:39:6f:34, XID 641, IRQ 93
+radeon 0000:2b:00.0: [drm] fb0: radeondrmfb frame buffer device
+radeon 0000:2b:00.0: fence driver on ring 0 use gpu addr 0x0000000080000c00
+radeon 0000:2b:00.0: fence driver on ring 1 use gpu addr 0x0000000080000c04
+radeon 0000:2b:00.0: fence driver on ring 2 use gpu addr 0x0000000080000c08
+radeon 0000:2b:00.0: fence driver on ring 3 use gpu addr 0x0000000080000c0c
+radeon 0000:2b:00.0: fence driver on ring 4 use gpu addr 0x0000000080000c10
+radeon 0000:2b:00.0: fence driver on ring 5 use gpu addr 0x0000000000075a18
+radeon 0000:2b:00.0: fence driver on ring 6 use gpu addr 0x0000000080000c18
+radeon 0000:2b:00.0: fence driver on ring 7 use gpu addr 0x0000000080000c1c
+radeon 0000:2b:00.0: GTT: 2048M 0x0000000080000000 - 0x00000000FFFFFFFF
+radeon 0000:2b:00.0: radeon: MSI limited to 32-bit
+radeon 0000:2b:00.0: radeon: using MSI.
+radeon 0000:2b:00.0: vgaarb: deactivate vga console
+radeon 0000:2b:00.0: VRAM: 2048M 0x0000000000000000 - 0x000000007FFFFFFF (2048M used)
+radeon 0000:2b:00.0: WB enabled
+    raise UnknownState(operational_state)
+RAMDISK: [mem 0x38b67000-0x3c7cdfff]
+random: crng init done
+RAPL PMU: API unit is 2^-32 Joules, 1 fixed counters, 163840 ms ovfl timer
+RAPL PMU: hw unit of domain package 2^-16 Joules
+RAS: Correctable Errors collector initialized.
+rcu: Adjusting geometry for rcu_fanout_leaf=16, nr_cpu_ids=32
+rcu: Hierarchical RCU implementation.
+rcu: Hierarchical SRCU implementation.
+rcu: RCU calculated value of scheduler-enlistment delay is 25 jiffies.
+rcu:         RCU restricting CPUs from NR_CPUS=8192 to nr_cpu_ids=32.
+Reached target Basic System.
+Reached target Graphical Interface.
+Reached target Host and Network Name Lookups.
+Reached target Local Encrypted Volumes.
+Reached target Local File Systems.
+Reached target Local Verity Protected Volumes.
+Reached target Login Prompts.
+Reached target Main User Target.
+Reached target Multi-User System.
+Reached target Network.
+Reached target Network is Online.
+Reached target Paths.
+Reached target Path Units.
+Reached target Preparation for Local File Systems.
+Reached target Preparation for Logins.
+Reached target Preparation for Network.
+Reached target Remote File Systems.
+Reached target Slice Units.
+Reached target Sockets.
+Reached target Socket Units.
+Reached target Sound Card.
+Reached target Swaps.
+Reached target System Initialization.
+Reached target System Time Set.
+Reached target Timers.
+Reached target Timer Units.
+Reached target User and Group Name Lookups.
+Received SIGRTMIN+20 from PID 569 (plymouthd).
+Received SIGRTMIN+21 from PID 569 (plymouthd).
+Registered Authentication Agent for unix-session:c1 (system bus name :1.40 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Registered efivars operations
+registered taskstats version 1
+Registering new address record for 127.0.0.1 on lo.IPv4.
+Registering new address record for 172.17.0.1 on docker0.IPv4.
+Registering new address record for ::1 on lo.*.
+Registering new address record for fe80::5ec9:d74a:1d8a:6b98 on enp42s0.*.
+Registering PCC driver as Mailbox controller
+Registering session with GDM
+Reloading AppArmor profiles
+resctrl: L3 allocation detected
+resctrl: L3 monitoring detected
+resctrl: MB allocation detected
+reserve setup_data: [mem 0x0000000000000000-0x000000000009ffff] usable
+reserve setup_data: [mem 0x00000000000a0000-0x00000000000fffff] reserved
+reserve setup_data: [mem 0x0000000000100000-0x0000000009e01fff] usable
+reserve setup_data: [mem 0x0000000009e02000-0x0000000009ffffff] reserved
+reserve setup_data: [mem 0x000000000a000000-0x000000000a1fffff] usable
+reserve setup_data: [mem 0x000000000a200000-0x000000000a20dfff] ACPI NVS
+reserve setup_data: [mem 0x000000000a20e000-0x000000000affffff] usable
+reserve setup_data: [mem 0x000000000b000000-0x000000000b01ffff] reserved
+reserve setup_data: [mem 0x000000000b020000-0x00000000d6949017] usable
+reserve setup_data: [mem 0x00000000d6949018-0x00000000d6959057] usable
+reserve setup_data: [mem 0x00000000d6959058-0x00000000d695a017] usable
+reserve setup_data: [mem 0x00000000d695a018-0x00000000d6967857] usable
+reserve setup_data: [mem 0x00000000d6967858-0x00000000d6968017] usable
+reserve setup_data: [mem 0x00000000d6968018-0x00000000d6976057] usable
+reserve setup_data: [mem 0x00000000d6976058-0x00000000db0e7fff] usable
+reserve setup_data: [mem 0x00000000db0e8000-0x00000000db4a3fff] reserved
+reserve setup_data: [mem 0x00000000db4a4000-0x00000000db507fff] ACPI data
+reserve setup_data: [mem 0x00000000db508000-0x00000000dcc06fff] ACPI NVS
+reserve setup_data: [mem 0x00000000dcc07000-0x00000000ddbfefff] reserved
+reserve setup_data: [mem 0x00000000ddbff000-0x00000000deffffff] usable
+reserve setup_data: [mem 0x00000000df000000-0x00000000dfffffff] reserved
+reserve setup_data: [mem 0x00000000f0000000-0x00000000f7ffffff] reserved
+reserve setup_data: [mem 0x00000000fd200000-0x00000000fd2fffff] reserved
+reserve setup_data: [mem 0x00000000fd600000-0x00000000fd7fffff] reserved
+reserve setup_data: [mem 0x00000000fea00000-0x00000000fea0ffff] reserved
+reserve setup_data: [mem 0x00000000feb80000-0x00000000fec01fff] reserved
+reserve setup_data: [mem 0x00000000fec10000-0x00000000fec10fff] reserved
+reserve setup_data: [mem 0x00000000fec30000-0x00000000fec30fff] reserved
+reserve setup_data: [mem 0x00000000fed00000-0x00000000fed00fff] reserved
+reserve setup_data: [mem 0x00000000fed40000-0x00000000fed44fff] reserved
+reserve setup_data: [mem 0x00000000fed80000-0x00000000fed8ffff] reserved
+reserve setup_data: [mem 0x00000000fedc2000-0x00000000fedcffff] reserved
+reserve setup_data: [mem 0x00000000fedd4000-0x00000000fedd5fff] reserved
+reserve setup_data: [mem 0x00000000ff000000-0x00000000ffffffff] reserved
+reserve setup_data: [mem 0x0000000100000000-0x000000081f2fffff] usable
+reserve setup_data: [mem 0x000000081f300000-0x000000081fffffff] reserved
+Restarting AppArmor
+rfkill: input handler disabled
+rsyslogd's groupid changed to 110
+rsyslogd's userid changed to 104
+rtc_cmos 00:02: alarms up to one month, y3k, 114 bytes nvram, hpet irqs
+rtc_cmos 00:02: registered as rtc0
+rtc_cmos 00:02: RTC can wake from S4
+rtc_cmos 00:02: setting system clock to 2023-01-01T12:28:06 UTC (1672576086)
+RTL8226B_RTL8221B 2.5Gbps PHY r8169-0-2a00:00: attached PHY driver (mii_bus:phy_addr=r8169-0-2a00:00, irq=MAC)
+        Rude variant of Tasks RCU enabled.
+Run /init as init process
+Running.
+Running GNOME Shell (using mutter 42.2) as a Wayland display server
+runsvchdir: svmanaged: current.
+Runtime Journal (/run/log/journal/9c8ea8959d0040b09d2913021934e01a) is 8.0M, max 320.2M, 312.2M free.
+sched_clock: Marking stable (531788336, 312170669)->(858815161, -14856156)
+scsi host0: ahci
+scsi host1: ahci
+scsi host2: ahci
+scsi host3: ahci
+scsi host4: ahci
+scsi host5: ahci
+SCSI subsystem initialized
+secureboot-db.service: Deactivated successfully.
+secureboot: Secure boot disabled
+See https://forum.snapcraft.io/t/11209 for details.
+Segment Routing with IPv6
+    self.handle_state(iface_name,
+Serial: 8250/16550 driver, 32 ports, IRQ sharing enabled
+serial8250: ttyS0 at I/O 0x3f8 (irq = 4, base_baud = 115200) is a 16550A
+Server startup complete. Host name is bscnode-MS-7C91.local. Local service cookie is 915782328.
+[session uid=125 pid=1456] Activating service name='org.gnome.Identity' requested by ':1.17' (uid=125 pid=1555 comm="/usr/libexec/goa-daemon " label="unconfined")
+[session uid=125 pid=1456] Activating service name='org.gnome.OnlineAccounts' requested by ':1.16' (uid=125 pid=1551 comm="/usr/libexec/gvfs-goa-volume-monitor " label="unconfined")
+[session uid=125 pid=1456] Activating via systemd: service name='org.freedesktop.impl.portal.PermissionStore' unit='xdg-permission-store.service' requested by ':1.4' (uid=125 pid=1469 comm="/usr/libexec/xdg-document-portal " label="unconfined")
+[session uid=125 pid=1456] Activating via systemd: service name='org.freedesktop.portal.Documents' unit='xdg-document-portal.service' requested by ':1.1' (uid=125 pid=1433 comm="/usr/bin/snap run snapd-desktop-integration " label="unconfined")
+[session uid=125 pid=1456] Activating via systemd: service name='org.freedesktop.Tracker3.Miner.Files' unit='tracker-miner-fs-3.service' requested by ':1.3' (uid=125 pid=1434 comm="/usr/libexec/tracker-extract-3 " label="unconfined")
+[session uid=125 pid=1456] Activating via systemd: service name='org.gtk.vfs.AfcVolumeMonitor' unit='gvfs-afc-volume-monitor.service' requested by ':1.11' (uid=125 pid=1516 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+[session uid=125 pid=1456] Activating via systemd: service name='org.gtk.vfs.Daemon' unit='gvfs-daemon.service' requested by ':1.3' (uid=125 pid=1434 comm="/usr/libexec/tracker-extract-3 " label="unconfined")
+[session uid=125 pid=1456] Activating via systemd: service name='org.gtk.vfs.GoaVolumeMonitor' unit='gvfs-goa-volume-monitor.service' requested by ':1.11' (uid=125 pid=1516 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+[session uid=125 pid=1456] Activating via systemd: service name='org.gtk.vfs.GPhoto2VolumeMonitor' unit='gvfs-gphoto2-volume-monitor.service' requested by ':1.11' (uid=125 pid=1516 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+[session uid=125 pid=1456] Activating via systemd: service name='org.gtk.vfs.Metadata' unit='gvfs-metadata.service' requested by ':1.3' (uid=125 pid=1434 comm="/usr/libexec/tracker-extract-3 " label="unconfined")
+[session uid=125 pid=1456] Activating via systemd: service name='org.gtk.vfs.MTPVolumeMonitor' unit='gvfs-mtp-volume-monitor.service' requested by ':1.11' (uid=125 pid=1516 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+[session uid=125 pid=1456] Activating via systemd: service name='org.gtk.vfs.UDisks2VolumeMonitor' unit='gvfs-udisks2-volume-monitor.service' requested by ':1.11' (uid=125 pid=1516 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+[session uid=125 pid=1456] AppArmor D-Bus mediation is enabled
+[session uid=125 pid=1456] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'
+[session uid=125 pid=1456] Successfully activated service 'org.freedesktop.portal.Documents'
+[session uid=125 pid=1456] Successfully activated service 'org.freedesktop.Tracker3.Miner.Files'
+[session uid=125 pid=1456] Successfully activated service 'org.gnome.Identity'
+[session uid=125 pid=1456] Successfully activated service 'org.gnome.OnlineAccounts'
+[session uid=125 pid=1456] Successfully activated service 'org.gtk.vfs.AfcVolumeMonitor'
+[session uid=125 pid=1456] Successfully activated service 'org.gtk.vfs.Daemon'
+[session uid=125 pid=1456] Successfully activated service 'org.gtk.vfs.GoaVolumeMonitor'
+[session uid=125 pid=1456] Successfully activated service 'org.gtk.vfs.GPhoto2VolumeMonitor'
+[session uid=125 pid=1456] Successfully activated service 'org.gtk.vfs.Metadata'
+[session uid=125 pid=1456] Successfully activated service 'org.gtk.vfs.MTPVolumeMonitor'
+[session uid=125 pid=1456] Successfully activated service 'org.gtk.vfs.UDisks2VolumeMonitor'
+Set up automount Arbitrary Executable File Formats File System Automount Point.
+setup_percpu: NR_CPUS:8192 nr_cpumask_bits:32 nr_cpu_ids:32 nr_node_ids:1
+SGI XFS with ACLs, security attributes, realtime, quota, no debug enabled
+shpchp: Standard Hot Plug PCI Controller Driver version: 0.4
+signal: max sigframe size: 3376
+Skipping profile in /etc/apparmor.d/disable: usr.bin.firefox
+Skipping profile in /etc/apparmor.d/disable: usr.sbin.rsyslogd
+SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=32, Nodes=1
+SMBIOS 2.8 present.
+smpboot: Allowing 32 CPUs, 8 hotplug CPUs
+smpboot: CPU0: AMD Ryzen 9 5900 12-Core Processor (family: 0x19, model: 0x21, stepping: 0x0)
+smpboot: Estimated ratio of average max frequency by base frequency (times 1024): 1329
+smpboot: Max logical packages: 2
+smpboot: Total of 24 processors activated (144012.62 BogoMIPS)
+smp: Bringing up secondary CPUs ...
+smp: Brought up 1 node, 24 CPUs
+snap.snapd-desktop-integration.snapd-desktop-integration.service: Failed with result 'exit-code'.
+snap.snapd-desktop-integration.snapd-desktop-integration.service: Main process exited, code=exited, status=1/FAILURE
+snd_hda_codec_hdmi hdaudioC2D0: HDMI ATI/AMD: no speaker allocation for ELD
+snd_hda_codec_realtek hdaudioC3D0: autoconfig for ALC1220: line_outs=3 (0x14/0x15/0x16/0x0/0x0) type:line
+snd_hda_codec_realtek hdaudioC3D0:    dig-out=0x1e/0x0
+snd_hda_codec_realtek hdaudioC3D0:      Front Mic=0x19
+snd_hda_codec_realtek hdaudioC3D0:    hp_outs=1 (0x1b/0x0/0x0/0x0/0x0)
+snd_hda_codec_realtek hdaudioC3D0:    inputs:
+snd_hda_codec_realtek hdaudioC3D0:      Line=0x1a
+snd_hda_codec_realtek hdaudioC3D0:    mono: mono_out=0x0
+snd_hda_codec_realtek hdaudioC3D0:      Rear Mic=0x18
+snd_hda_codec_realtek hdaudioC3D0:    speaker_outs=0 (0x0/0x0/0x0/0x0/0x0)
+snd_hda_intel 0000:2b:00.1: Force to non-snoop mode
+snd_hda_intel 0000:2b:00.1: Handle vga_switcheroo audio client
+snd_hda_intel 0000:2d:00.4: enabling device (0000 -> 0002)
+software IO TLB: mapped [mem 0x00000000d2942000-0x00000000d6942000] (64MB)
+Sorry, home directories outside of /home are not currently supported.
+Spectre V1 : Mitigation: usercopy/swapgs barriers and __user pointer sanitization
+Spectre V2 : Enabling Restricted Speculation for firmware calls
+Spectre V2 : mitigation: Enabling conditional Indirect Branch Prediction Barrier
+Spectre V2 : Mitigation: Retpolines
+Spectre V2 : Spectre v2 / SpectreRSB : Filling RSB on VMEXIT
+Spectre V2 : Spectre v2 / SpectreRSB mitigation: Filling RSB on context switch
+Spectre V2 : Update user space SMT mitigation: STIBP always-on
+Spectre V2 : User space: Mitigation: STIBP always-on protection
+Speculative Store Bypass: Mitigation: Speculative Store Bypass disabled via prctl and seccomp
+SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+    splash
+squashfs: version 4.0 (2009/01/31) Phillip Lougher
+sssd-autofs.socket: Bound to unit sssd.service, but unit isn't active.
+sssd-autofs.socket: Job sssd-autofs.socket/start failed with result 'dependency'.
+sssd-nss.socket: Bound to unit sssd.service, but unit isn't active.
+sssd-nss.socket: Job sssd-nss.socket/start failed with result 'dependency'.
+sssd-pac.socket: Bound to unit sssd.service, but unit isn't active.
+sssd-pac.socket: Job sssd-pac.socket/start failed with result 'dependency'.
+sssd-pam-priv.socket: Bound to unit sssd.service, but unit isn't active.
+sssd-pam-priv.socket: Job sssd-pam-priv.socket/start failed with result 'dependency'.
+sssd-pam.socket: Job sssd-pam.socket/start failed with result 'dependency'.
+sssd-ssh.socket: Bound to unit sssd.service, but unit isn't active.
+sssd-ssh.socket: Job sssd-ssh.socket/start failed with result 'dependency'.
+sssd-sudo.socket: Bound to unit sssd.service, but unit isn't active.
+sssd-sudo.socket: Job sssd-sudo.socket/start failed with result 'dependency'.
+Started Accounts Service.
+Started ACPI event daemon.
+Started ACPI Events Check.
+Started Atop advanced performance monitor.
+Started Atop process accounting daemon.
+Started Authorization Manager.
+Started Avahi mDNS/DNS-SD Stack.
+Started Check to see whether there is a new version of Ubuntu available.
+Started containerd container runtime.
+Started crash report submission.
+Started CUPS Scheduler.
+Started Daemon for power management.
+started daemon version 0.105 using authority implementation `local' version `0.105'
+started daemon version 22.07.5
+Started Daily apt download activities.
+Started Daily apt upgrade and clean activities.
+Started Daily atop restart.
+Started Daily Cleanup of Temporary Directories.
+Started Daily dpkg database backup timer.
+Started Daily man-db regeneration.
+Started Daily rotation of log files.
+Started D-Bus System Message Bus.
+Started D-Bus User Message Bus.
+Started Discard unused blocks once a week.
+Started Disk Manager.
+Started Dispatcher daemon for systemd-networkd.
+Started Docker Application Container Engine.
+Started Download data for packages that failed at package install time.
+Started File System Check Daemon to report status.
+Started Fingerprint Authentication Daemon.
+Started flatpak document portal service.
+Started Forward Password Requests to Plymouth Directory Watch.
+Started Forward Password Requests to Wall Directory Watch.
+Started GNOME Display Manager.
+Started Hostname Service.
+Started irqbalance daemon.
+Started Journal Service.
+Started Locale Service.
+Started Location Lookup Service.
+Started LSB: automatic crash report generation.
+Started Make remote CUPS printers available locally.
+Started Manage, Install and Generate Color Profiles.
+Started Message of the Day.
+Started Modem Manager.
+Started Network Manager.
+Started Network Manager Script Dispatcher Service.
+Started Network Name Resolution.
+Started Network Time Synchronization.
+Started PackageKit Daemon.
+Started Pending report trigger for Ubuntu Report.
+Started Periodic ext4 Online Metadata Check for All Filesystems.
+Started PipeWire Media Session Manager.
+Started PipeWire Multimedia Service.
+Started Power Profiles daemon.
+Started RealtimeKit Scheduling Policy Service.
+Started Refresh fwupd metadata regularly.
+Started Regular background program processing daemon.
+Started Rule-based Manager for Device Events and Files.
+Started Run anacron jobs.
+Started Runit service supervision.
+Started sandboxed app permission store.
+Started Save initial kernel messages after boot.
+Started Service for snap application snapd-desktop-integration.snapd-desktop-integration.
+Started Session c1 of User gdm.
+Started Show Plymouth Boot Screen.
+Started Snap Daemon.
+Started Sound Service.
+Started Start whoopsie on modification of the /var/crash directory.
+Started Switcheroo Control Proxy service.
+Started System Logging Service.
+Started The Apache HTTP Server.
+Started Thermal Daemon Service.
+Started Time & Date Service.
+Started Tool to automatically collect and submit kernel crash signatures.
+Started Tracker file system data miner.
+Started Tracker metadata extractor.
+Started Trigger anacron every hour.
+Started Ubuntu Advantage Timer for running repeated jobs.
+Started Unattended Upgrades Shutdown.
+Started User Login Management.
+Started User Manager for UID 125.
+Started Userspace Out-Of-Memory (OOM) Killer.
+Started Virtual filesystem metadata service.
+Started Virtual filesystem service.
+Started Virtual filesystem service - Apple File Conduit monitor.
+Started Virtual filesystem service - digital camera monitor.
+Started Virtual filesystem service - disk device monitor.
+Started Virtual filesystem service - GNOME Online Accounts monitor.
+Started Virtual filesystem service - Media Transfer Protocol monitor.
+Started WPA supplicant.
+Starting Accounts Service...
+Starting Apply Kernel Variables...
+Starting Atop advanced performance monitor...
+Starting Atop process accounting daemon...
+Starting Authorization Manager...
+ * Starting automatic crash report generation: apport
+Starting Avahi mDNS/DNS-SD Stack...
+Starting Coldplug All udev Devices...
+Starting containerd container runtime...
+Starting Create List of Static Device Nodes...
+Starting Create Static Device Nodes in /dev...
+Starting Create System Users...
+Starting Create Volatile Files and Directories...
+Starting CUPS Scheduler...
+Starting Daemon for power management...
+Starting D-Bus User Message Bus Socket...
+Starting Detect the available GPUs and deal with any system changes...
+Starting Disk Manager...
+Starting Dispatcher daemon for systemd-networkd...
+Starting Docker Application Container Engine...
+Starting Docker Socket for the API...
+Starting Enable support for additional executable binary formats...
+Starting File System Check on /dev/disk/by-uuid/89E6-B381...
+Starting File System Check on /dev/disk/by-uuid/90972f1c-3c46-4f32-9b29-86f8dd096323...
+Starting Fingerprint Authentication Daemon...
+Starting flatpak document portal service...
+Starting Flush Journal to Persistent Storage...
+Starting GNOME Display Manager...
+Starting GRUB failed boot detection...
+Starting Hold until boot process finishes up...
+Starting Hostname Service...
+Starting Journal Service...
+Starting Load AppArmor profiles...
+Starting Load AppArmor profiles managed internally by snapd...
+Starting Load Kernel Module chromeos_pstore...
+Starting Load Kernel Module configfs...
+Starting Load Kernel Module drm...
+Starting Load Kernel Module efi_pstore...
+Starting Load Kernel Module fuse...
+Starting Load Kernel Module pstore_blk...
+Starting Load Kernel Module pstore_zone...
+Starting Load Kernel Module ramoops...
+Starting Load Kernel Modules...
+Starting Load/Save Random Seed...
+Starting Locale Service...
+Starting Location Lookup Service...
+Starting LSB: automatic crash report generation...
+Starting Manage, Install and Generate Color Profiles...
+Starting Modem Manager...
+Starting Network Manager...
+Starting Network Manager Script Dispatcher Service...
+Starting Network Manager Wait Online...
+Starting Network Name Resolution...
+Starting Network Time Synchronization...
+Starting OpenVPN service...
+Starting PackageKit Daemon...
+Starting Permit User Sessions...
+Starting Power Profiles daemon...
+Starting RealtimeKit Scheduling Policy Service...
+Starting Record Runlevel Change in UTMP...
+Starting Record successful boot for GRUB...
+Starting Record System Boot/Shutdown in UTMP...
+Starting Remount Root and Kernel File Systems...
+Starting Remove Stale Online ext4 Metadata Check Snapshots...
+Starting Rule-based Manager for Device Events and Files...
+Starting sandboxed app permission store...
+Starting Save/Restore Sound Card State...
+Starting Secure Boot updates for DB and DBX...
+Starting Set console font and keymap...
+Starting Set console scheme...
+Starting Set the console keyboard layout...
+Starting Set Up Additional Binary Formats...
+Starting Show Plymouth Boot Screen...
+Starting Snap Daemon...
+Starting Socket activation for snappy daemon...
+Starting Sound Service...
+Starting Switcheroo Control Proxy service...
+Starting System Logging Service...
+Starting Tell Plymouth To Write Out Runtime Data...
+Starting The Apache HTTP Server...
+Starting Thermal Daemon Service...
+Starting Time & Date Service...
+Starting Tool to automatically collect and submit kernel crash signatures...
+Starting Tracker file system data miner...
+Starting Tracker metadata extractor...
+Starting Uncomplicated firewall...
+starting up with netlink and the input layer
+Starting User Login Management...
+Starting User Manager for UID 125...
+Starting User Runtime Directory /run/user/125...
+Starting Userspace Out-Of-Memory (OOM) Killer...
+Starting Virtual filesystem metadata service...
+Starting Virtual filesystem service...
+Starting Virtual filesystem service - Apple File Conduit monitor...
+Starting Virtual filesystem service - digital camera monitor...
+Starting Virtual filesystem service - disk device monitor...
+Starting Virtual filesystem service - GNOME Online Accounts monitor...
+Starting Virtual filesystem service - Media Transfer Protocol monitor...
+Starting Wait until snapd is fully seeded...
+Starting WPA supplicant...
+Startup finished in 1.293s.
+Startup finished in 16.270s (firmware) + 591ms (loader) + 3.351s (kernel) + 8.869s (userspace) = 29.082s.
+Successfully called chroot().
+Successfully called chroot.
+Successfully dropped privileges.
+Successfully dropped remaining capabilities.
+Successfully dropped root privileges.
+Successfully initialized wpa_supplicant
+Successfully limited resources.
+Successfully made thread 1430 of process 1430 owned by '125' high priority at nice level -11.
+Successfully made thread 1432 of process 1432 owned by '125' high priority at nice level -11.
+Successfully made thread 1485 of process 1431 owned by '125' RT at priority 20.
+Successfully made thread 1487 of process 1430 owned by '125' RT at priority 20.
+Successfully made thread 1568 of process 1432 owned by '125' RT at priority 5.
+Successfully made thread 1578 of process 1432 owned by '125' RT at priority 5.
+Successfully made thread 1603 of process 1432 owned by '125' RT at priority 5.
+Successfully made thread 1604 of process 1432 owned by '125' RT at priority 5.
+Successfully made thread 1605 of process 1432 owned by '125' RT at priority 5.
+Successfully made thread 1606 of process 1432 owned by '125' RT at priority 5.
+Supervising 10 threads of 3 processes of 1 users.
+Supervising 1 threads of 1 processes of 1 users.
+Supervising 2 threads of 2 processes of 1 users.
+Supervising 3 threads of 3 processes of 1 users.
+Supervising 4 threads of 3 processes of 1 users.
+Supervising 5 threads of 3 processes of 1 users.
+Supervising 6 threads of 3 processes of 1 users.
+Supervising 7 threads of 3 processes of 1 users.
+Supervising 8 threads of 3 processes of 1 users.
+Supervising 9 threads of 3 processes of 1 users.
+Switched APIC routing to physical flat.
+system 00:00: [mem 0xf0000000-0xf7ffffff] has been reserved
+system 00:01: [mem 0xfd200000-0xfd2fffff] has been reserved
+system 00:03: [io  0x0a00-0x0a0f] has been reserved
+system 00:03: [io  0x0a10-0x0a1f] has been reserved
+system 00:03: [io  0x0a20-0x0a2f] has been reserved
+system 00:04: [io  0x040b] has been reserved
+system 00:04: [io  0x04d0-0x04d1] has been reserved
+system 00:04: [io  0x04d6] has been reserved
+system 00:04: [io  0x0800-0x089f] has been reserved
+system 00:04: [io  0x0900-0x090f] has been reserved
+system 00:04: [io  0x0910-0x091f] has been reserved
+system 00:04: [io  0x0b00-0x0b0f] has been reserved
+system 00:04: [io  0x0b20-0x0b3f] has been reserved
+system 00:04: [io  0x0c00-0x0c01] has been reserved
+system 00:04: [io  0x0c14] has been reserved
+system 00:04: [io  0x0c50-0x0c51] has been reserved
+system 00:04: [io  0x0c52] has been reserved
+system 00:04: [io  0x0c6c] has been reserved
+system 00:04: [io  0x0c6f] has been reserved
+system 00:04: [io  0x0cd8-0x0cdf] has been reserved
+system 00:04: [mem 0xfec00000-0xfec00fff] could not be reserved
+system 00:04: [mem 0xfec01000-0xfec01fff] could not be reserved
+system 00:04: [mem 0xfec10000-0xfec10fff] has been reserved
+system 00:04: [mem 0xfed80000-0xfed8ffff] could not be reserved
+system 00:04: [mem 0xfedc0000-0xfedc0fff] has been reserved
+system 00:04: [mem 0xfee00000-0xfee00fff] has been reserved
+system 00:04: [mem 0xff000000-0xffffffff] has been reserved
+[system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service' requested by ':1.40' (uid=125 pid=1505 comm="/usr/bin/gnome-shell " label="unconfined")
+[system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.50' (uid=125 pid=1432 comm="/usr/bin/pulseaudio --daemonize=no --log-target=jo" label="unconfined")
+[system] Activating via systemd: service name='org.freedesktop.ColorManager' unit='colord.service' requested by ':1.15' (uid=0 pid=980 comm="/usr/sbin/cupsd -l " label="/usr/sbin/cupsd (enforce)")
+[system] Activating via systemd: service name='org.freedesktop.GeoClue2' unit='geoclue.service' requested by ':1.40' (uid=125 pid=1505 comm="/usr/bin/gnome-shell " label="unconfined")
+[system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.12' (uid=0 pid=895 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+[system] Activating via systemd: service name='org.freedesktop.locale1' unit='dbus-org.freedesktop.locale1.service' requested by ':1.40' (uid=125 pid=1505 comm="/usr/bin/gnome-shell " label="unconfined")
+[system] Activating via systemd: service name='org.freedesktop.network1' unit='dbus-org.freedesktop.network1.service' requested by ':1.20' (uid=0 pid=1164 comm="/usr/bin/networkctl list --no-pager --no-legend " label="unconfined")
+[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.12' (uid=0 pid=895 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+[system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.40' (uid=125 pid=1505 comm="/usr/bin/gnome-shell " label="unconfined")
+[system] Activating via systemd: service name='org.freedesktop.PolicyKit1' unit='polkit.service' requested by ':1.7' (uid=0 pid=905 comm="/usr/libexec/power-profiles-daemon " label="unconfined")
+[system] Activating via systemd: service name='org.freedesktop.RealtimeKit1' unit='rtkit-daemon.service' requested by ':1.33' (uid=125 pid=1430 comm="/usr/bin/pipewire " label="unconfined")
+[system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.27' (uid=0 pid=910 comm="/usr/lib/snapd/snapd " label="unconfined")
+[system] Activating via systemd: service name='org.freedesktop.UPower' unit='upower.service' requested by ':1.42' (uid=125 pid=1516 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+[system] Activation via systemd failed for unit 'dbus-org.freedesktop.network1.service': Unit dbus-org.freedesktop.network1.service not found.
+[system] AppArmor D-Bus mediation is enabled
+systemd 249.11-0ubuntu3.6 running in system mode (+PAM +AUDIT +SELINUX +APPARMOR +IMA +SMACK +SECCOMP +GCRYPT +GNUTLS +OPENSSL +ACL +BLKID +CURL +ELFUTILS +FIDO2 +IDN2 -IDN +IPTC +KMOD +LIBCRYPTSETUP +LIBFDISK +PCRE2 -PWQUALITY -P11KIT -QRENCODE +BZIP2 +LZ4 +XZ +ZLIB +ZSTD -XKBCOMMON +UTMP +SYSVINIT default-hierarchy=unified)
+systemd-update-utmp-runlevel.service: Deactivated successfully.
+System Journal (/var/log/journal/9c8ea8959d0040b09d2913021934e01a) is 4.0G, max 4.0G, 0B free.
+[system] Successfully activated service 'net.reactivated.Fprint'
+[system] Successfully activated service 'org.freedesktop.ColorManager'
+[system] Successfully activated service 'org.freedesktop.GeoClue2'
+[system] Successfully activated service 'org.freedesktop.hostname1'
+[system] Successfully activated service 'org.freedesktop.locale1'
+[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+[system] Successfully activated service 'org.freedesktop.PackageKit'
+[system] Successfully activated service 'org.freedesktop.PolicyKit1'
+[system] Successfully activated service 'org.freedesktop.RealtimeKit1'
+[system] Successfully activated service 'org.freedesktop.timedate1'
+[system] Successfully activated service 'org.freedesktop.UPower'
+Table-perturb hash table entries: 65536 (order: 6, 262144 bytes, linear)
+TCP bind hash table entries: 65536 (order: 8, 1048576 bytes, linear)
+TCP established hash table entries: 262144 (order: 9, 2097152 bytes, linear)
+TCP: Hash tables configured (established 262144 bind 65536)
+tcp_listen_portaddr_hash hash table entries: 16384 (order: 6, 262144 bytes, linear)
+    TERM=linux
+thermald.service: Deactivated successfully.
+thermal_sys: Registered thermal governor 'bang_bang'
+thermal_sys: Registered thermal governor 'fair_share'
+thermal_sys: Registered thermal governor 'power_allocator'
+thermal_sys: Registered thermal governor 'step_wise'
+thermal_sys: Registered thermal governor 'user_space'
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+This usually indicates unclean termination of a previous run, or service implementation deficiencies.
+time="2023-01-01T13:28:11+01:00" level=warning msg="containerd config version `1` has been deprecated and will be removed in containerd v2.0, please switch to version `2`, see https://github.com/containerd/containerd/blob/main/docs/PLUGINS.md#version-header"
+time="2023-01-01T13:28:11.096925816+01:00" level=info msg="starting containerd" revision=9ba4b250366a5ddde94bb7c9d1def331423aa323 version=1.6.14
+time="2023-01-01T13:28:11.104578211+01:00" level=info msg="loading plugin \"io.containerd.content.v1.content\"..." type=io.containerd.content.v1
+time="2023-01-01T13:28:11.104696071+01:00" level=info msg="loading plugin \"io.containerd.snapshotter.v1.aufs\"..." type=io.containerd.snapshotter.v1
+time="2023-01-01T13:28:11.105538922+01:00" level=info msg="skip loading plugin \"io.containerd.snapshotter.v1.aufs\"..." error="aufs is not supported (modprobe aufs failed: exit status 1 \"modprobe: FATAL: Module aufs not found in directory /lib/modules/5.15.0-56-generic\\n\"): skip plugin" type=io.containerd.snapshotter.v1
+time="2023-01-01T13:28:11.105552502+01:00" level=info msg="loading plugin \"io.containerd.snapshotter.v1.btrfs\"..." type=io.containerd.snapshotter.v1
+time="2023-01-01T13:28:11.105628782+01:00" level=info msg="skip loading plugin \"io.containerd.snapshotter.v1.btrfs\"..." error="path /var/lib/containerd/io.containerd.snapshotter.v1.btrfs (ext4) must be a btrfs filesystem to be used with the btrfs snapshotter: skip plugin" type=io.containerd.snapshotter.v1
+time="2023-01-01T13:28:11.105636862+01:00" level=info msg="loading plugin \"io.containerd.snapshotter.v1.devmapper\"..." type=io.containerd.snapshotter.v1
+time="2023-01-01T13:28:11.105643102+01:00" level=warning msg="failed to load plugin io.containerd.snapshotter.v1.devmapper" error="devmapper not configured"
+time="2023-01-01T13:28:11.105648732+01:00" level=info msg="loading plugin \"io.containerd.snapshotter.v1.native\"..." type=io.containerd.snapshotter.v1
+time="2023-01-01T13:28:11.105765722+01:00" level=info msg="loading plugin \"io.containerd.snapshotter.v1.overlayfs\"..." type=io.containerd.snapshotter.v1
+time="2023-01-01T13:28:11.106088832+01:00" level=info msg="loading plugin \"io.containerd.snapshotter.v1.zfs\"..." type=io.containerd.snapshotter.v1
+time="2023-01-01T13:28:11.106165012+01:00" level=info msg="skip loading plugin \"io.containerd.snapshotter.v1.zfs\"..." error="path /var/lib/containerd/io.containerd.snapshotter.v1.zfs must be a zfs filesystem to be used with the zfs snapshotter: skip plugin" type=io.containerd.snapshotter.v1
+time="2023-01-01T13:28:11.106173802+01:00" level=info msg="loading plugin \"io.containerd.metadata.v1.bolt\"..." type=io.containerd.metadata.v1
+time="2023-01-01T13:28:11.106183892+01:00" level=warning msg="could not use snapshotter devmapper in metadata plugin" error="devmapper not configured"
+time="2023-01-01T13:28:11.106189572+01:00" level=info msg="metadata content store policy set" policy=shared
+time="2023-01-01T13:28:11.106987033+01:00" level=info msg="loading plugin \"io.containerd.differ.v1.walking\"..." type=io.containerd.differ.v1
+time="2023-01-01T13:28:11.107001283+01:00" level=info msg="loading plugin \"io.containerd.event.v1.exchange\"..." type=io.containerd.event.v1
+time="2023-01-01T13:28:11.107008733+01:00" level=info msg="loading plugin \"io.containerd.gc.v1.scheduler\"..." type=io.containerd.gc.v1
+time="2023-01-01T13:28:11.107027353+01:00" level=info msg="loading plugin \"io.containerd.service.v1.introspection-service\"..." type=io.containerd.service.v1
+time="2023-01-01T13:28:11.107035493+01:00" level=info msg="loading plugin \"io.containerd.service.v1.containers-service\"..." type=io.containerd.service.v1
+time="2023-01-01T13:28:11.107042763+01:00" level=info msg="loading plugin \"io.containerd.service.v1.content-service\"..." type=io.containerd.service.v1
+time="2023-01-01T13:28:11.107049733+01:00" level=info msg="loading plugin \"io.containerd.service.v1.diff-service\"..." type=io.containerd.service.v1
+time="2023-01-01T13:28:11.107056863+01:00" level=info msg="loading plugin \"io.containerd.service.v1.images-service\"..." type=io.containerd.service.v1
+time="2023-01-01T13:28:11.107063843+01:00" level=info msg="loading plugin \"io.containerd.service.v1.leases-service\"..." type=io.containerd.service.v1
+time="2023-01-01T13:28:11.107070793+01:00" level=info msg="loading plugin \"io.containerd.service.v1.namespaces-service\"..." type=io.containerd.service.v1
+time="2023-01-01T13:28:11.107077283+01:00" level=info msg="loading plugin \"io.containerd.service.v1.snapshots-service\"..." type=io.containerd.service.v1
+time="2023-01-01T13:28:11.107084193+01:00" level=info msg="loading plugin \"io.containerd.runtime.v1.linux\"..." type=io.containerd.runtime.v1
+time="2023-01-01T13:28:11.107108203+01:00" level=info msg="loading plugin \"io.containerd.runtime.v2.task\"..." type=io.containerd.runtime.v2
+time="2023-01-01T13:28:11.107131103+01:00" level=info msg="loading plugin \"io.containerd.monitor.v1.cgroups\"..." type=io.containerd.monitor.v1
+time="2023-01-01T13:28:11.107482023+01:00" level=info msg="loading plugin \"io.containerd.service.v1.tasks-service\"..." type=io.containerd.service.v1
+time="2023-01-01T13:28:11.107516833+01:00" level=info msg="loading plugin \"io.containerd.grpc.v1.introspection\"..." type=io.containerd.grpc.v1
+time="2023-01-01T13:28:11.107528033+01:00" level=info msg="loading plugin \"io.containerd.internal.v1.restart\"..." type=io.containerd.internal.v1
+time="2023-01-01T13:28:11.107764004+01:00" level=info msg="loading plugin \"io.containerd.grpc.v1.containers\"..." type=io.containerd.grpc.v1
+time="2023-01-01T13:28:11.107779714+01:00" level=info msg="loading plugin \"io.containerd.grpc.v1.content\"..." type=io.containerd.grpc.v1
+time="2023-01-01T13:28:11.107788974+01:00" level=info msg="loading plugin \"io.containerd.grpc.v1.diff\"..." type=io.containerd.grpc.v1
+time="2023-01-01T13:28:11.107796874+01:00" level=info msg="loading plugin \"io.containerd.grpc.v1.events\"..." type=io.containerd.grpc.v1
+time="2023-01-01T13:28:11.107805384+01:00" level=info msg="loading plugin \"io.containerd.grpc.v1.healthcheck\"..." type=io.containerd.grpc.v1
+time="2023-01-01T13:28:11.107813874+01:00" level=info msg="loading plugin \"io.containerd.grpc.v1.images\"..." type=io.containerd.grpc.v1
+time="2023-01-01T13:28:11.107822074+01:00" level=info msg="loading plugin \"io.containerd.grpc.v1.leases\"..." type=io.containerd.grpc.v1
+time="2023-01-01T13:28:11.107830004+01:00" level=info msg="loading plugin \"io.containerd.grpc.v1.namespaces\"..." type=io.containerd.grpc.v1
+time="2023-01-01T13:28:11.107843794+01:00" level=info msg="loading plugin \"io.containerd.internal.v1.opt\"..." type=io.containerd.internal.v1
+time="2023-01-01T13:28:11.108765244+01:00" level=info msg="loading plugin \"io.containerd.grpc.v1.snapshots\"..." type=io.containerd.grpc.v1
+time="2023-01-01T13:28:11.108775864+01:00" level=info msg="loading plugin \"io.containerd.grpc.v1.tasks\"..." type=io.containerd.grpc.v1
+time="2023-01-01T13:28:11.108783404+01:00" level=info msg="loading plugin \"io.containerd.grpc.v1.version\"..." type=io.containerd.grpc.v1
+time="2023-01-01T13:28:11.108791414+01:00" level=info msg="loading plugin \"io.containerd.tracing.processor.v1.otlp\"..." type=io.containerd.tracing.processor.v1
+time="2023-01-01T13:28:11.108800574+01:00" level=info msg="skip loading plugin \"io.containerd.tracing.processor.v1.otlp\"..." error="no OpenTelemetry endpoint: skip plugin" type=io.containerd.tracing.processor.v1
+time="2023-01-01T13:28:11.108807044+01:00" level=info msg="loading plugin \"io.containerd.internal.v1.tracing\"..." type=io.containerd.internal.v1
+time="2023-01-01T13:28:11.108817834+01:00" level=error msg="failed to initialize a tracing processor \"otlp\"" error="no OpenTelemetry endpoint: skip plugin"
+time="2023-01-01T13:28:11.108916214+01:00" level=info msg=serving... address=/run/containerd/containerd.sock.ttrpc
+time="2023-01-01T13:28:11.108936724+01:00" level=info msg=serving... address=/run/containerd/containerd.sock
+time="2023-01-01T13:28:11.108957094+01:00" level=info msg="containerd successfully booted in 0.012934s"
+time="2023-01-01T13:28:17.592607975+01:00" level=info msg="Starting up"
+time="2023-01-01T13:28:17.593717576+01:00" level=info msg="detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf"
+time="2023-01-01T13:28:17.612659718+01:00" level=info msg="parsed scheme: \"unix\"" module=grpc
+time="2023-01-01T13:28:17.612669788+01:00" level=info msg="scheme \"unix\" not registered, fallback to default scheme" module=grpc
+time="2023-01-01T13:28:17.612681888+01:00" level=info msg="ccResolverWrapper: sending update to cc: {[{unix:///run/containerd/containerd.sock  <nil> 0 <nil>}] <nil> <nil>}" module=grpc
+time="2023-01-01T13:28:17.612687968+01:00" level=info msg="ClientConn switching balancer to \"pick_first\"" module=grpc
+time="2023-01-01T13:28:17.616614551+01:00" level=info msg="parsed scheme: \"unix\"" module=grpc
+time="2023-01-01T13:28:17.616627831+01:00" level=info msg="scheme \"unix\" not registered, fallback to default scheme" module=grpc
+time="2023-01-01T13:28:17.616641091+01:00" level=info msg="ccResolverWrapper: sending update to cc: {[{unix:///run/containerd/containerd.sock  <nil> 0 <nil>}] <nil> <nil>}" module=grpc
+time="2023-01-01T13:28:17.616648441+01:00" level=info msg="ClientConn switching balancer to \"pick_first\"" module=grpc
+time="2023-01-01T13:28:17.642609458+01:00" level=info msg="[graphdriver] using prior storage driver: overlay2"
+time="2023-01-01T13:28:17.883392156+01:00" level=info msg="Loading containers: start."
+time="2023-01-01T13:28:18.120094711+01:00" level=info msg="Default bridge (docker0) is assigned with an IP address 172.17.0.0/16. Daemon option --bip can be used to set a preferred IP address"
+time="2023-01-01T13:28:18.198883613+01:00" level=info msg="Loading containers: done."
+time="2023-01-01T13:28:18.222058948+01:00" level=info msg="Docker daemon" commit=42c8b31 graphdriver(s)=overlay2 version=20.10.22
+time="2023-01-01T13:28:18.222204938+01:00" level=info msg="Daemon has completed initialization"
+time="2023-01-01T13:28:18.232266325+01:00" level=info msg="API listen on /run/docker.sock"
+..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+Time spent on flushing to /var/log/journal/9c8ea8959d0040b09d2913021934e01a is 115.594ms for 1182 entries.
+tmp-snap.rootfs_KM3x3O.mount: Deactivated successfully.
+tmp-syscheck\x2dmountpoint\x2d238348615.mount: Deactivated successfully.
+total RAM covered: 3583M
+Traceback (most recent call last):
+        Tracing variant of Tasks RCU enabled.
+Trying to unpack rootfs image as initramfs...
+tsc: Detected 3000.263 MHz processor
+tsc: Fast TSC calibration using PIT
+tsc: Refined TSC clocksource calibration: 2999.998 MHz
+tun: Universal TUN/TAP device driver, 1.6
+udisks daemon version 2.9.4 starting
+UDP hash table entries: 16384 (order: 7, 524288 bytes, linear)
+UDP-Lite hash table entries: 16384 (order: 7, 524288 bytes, linear)
+uhci_hcd: USB Universal Host Controller Interface driver
+Unable to get XDG user directory path for special directory &DOCUMENTS. Ignoring this location.
+Unable to get XDG user directory path for special directory &DOWNLOAD. Ignoring this location.
+Unable to get XDG user directory path for special directory &MUSIC. Ignoring this location.
+Unable to get XDG user directory path for special directory &PICTURES. Ignoring this location.
+Unable to get XDG user directory path for special directory &VIDEOS. Ignoring this location.
+Unknown kernel command line parameters "splash BOOT_IMAGE=/vmlinuz-5.15.0-56-generic", will be passed to user space.
+UnknownState: n/a
+Unset XDG_SESSION_ID, getCurrentSessionProxy() called outside a user session. Asking logind directly.
+Unsupported cpu model or platform
+usb 1-2: new high-speed USB device number 2 using xhci_hcd
+usb 1-2: New USB device found, idVendor=05e3, idProduct=0608, bcdDevice=60.70
+usb 1-2: New USB device strings: Mfr=0, Product=1, SerialNumber=0
+usb 1-2: Product: USB2.0 Hub
+usb 1-5: Manufacturer: Gaming KB 
+usb 1-5: new full-speed USB device number 3 using xhci_hcd
+usb 1-5: New USB device found, idVendor=258a, idProduct=001a, bcdDevice=32.06
+usb 1-5: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+usb 1-5: Product: Gaming KB 
+usb 1-6: new full-speed USB device number 4 using xhci_hcd
+usb 1-6: New USB device found, idVendor=04d9, idProduct=ad50, bcdDevice= 1.00
+usb 1-6: New USB device strings: Mfr=0, Product=2, SerialNumber=0
+usb 1-6: Product: USB Gaming Mouse
+usb 1-8: Manufacturer: MSI
+usb 1-8: new full-speed USB device number 5 using xhci_hcd
+usb 1-8: New USB device found, idVendor=1462, idProduct=7c91, bcdDevice= 0.01
+usb 1-8: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+usb 1-8: Product: MYSTIC LIGHT 
+usb 1-8: SerialNumber: A020200409A4
+usb 3-3: Found UVC 1.00 device USB3. 0 capture (534d:2109)
+usb 3-3: Manufacturer: MACROSILICON
+usb 3-3: new high-speed USB device number 2 using xhci_hcd
+usb 3-3: New USB device found, idVendor=534d, idProduct=2109, bcdDevice=21.00
+usb 3-3: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+usb 3-3: Product: USB3. 0 capture
+usb 3-4: Manufacturer: Superlux digit
+usb 3-4: new full-speed USB device number 3 using xhci_hcd
+usb 3-4: New USB device found, idVendor=0205, idProduct=0001, bcdDevice= 1.00
+usb 3-4: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+usb 3-4: Product: Superlux E205U
+usbcore: registered new device driver usb
+usbcore: registered new interface driver hub
+usbcore: registered new interface driver snd-usb-audio
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver usbhid
+usbcore: registered new interface driver uvcvideo
+usbhid: USB HID core driver
+usb usb1: Manufacturer: Linux 5.15.0-56-generic xhci-hcd
+usb usb1: New USB device found, idVendor=1d6b, idProduct=0002, bcdDevice= 5.15
+usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+usb usb1: Product: xHCI Host Controller
+usb usb1: SerialNumber: 0000:06:00.0
+usb usb2: Manufacturer: Linux 5.15.0-56-generic xhci-hcd
+usb usb2: New USB device found, idVendor=1d6b, idProduct=0003, bcdDevice= 5.15
+usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+usb usb2: Product: xHCI Host Controller
+usb usb2: SerialNumber: 0000:06:00.0
+usb usb2: We don't know the algorithms for LPM for this host, disabling LPM.
+usb usb3: Manufacturer: Linux 5.15.0-56-generic xhci-hcd
+usb usb3: New USB device found, idVendor=1d6b, idProduct=0002, bcdDevice= 5.15
+usb usb3: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+usb usb3: Product: xHCI Host Controller
+usb usb3: SerialNumber: 0000:2d:00.3
+usb usb4: Manufacturer: Linux 5.15.0-56-generic xhci-hcd
+usb usb4: New USB device found, idVendor=1d6b, idProduct=0003, bcdDevice= 5.15
+usb usb4: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+usb usb4: Product: xHCI Host Controller
+usb usb4: SerialNumber: 0000:2d:00.3
+usb usb4: We don't know the algorithms for LPM for this host, disabling LPM.
+Using default interface naming scheme 'v249'.
+Using GB pages for direct mapping
+Using public X11 display :1024, (using :1025 for managed services)
+Using system hostname 'bscnode-MS-7C91'.
+Using Wayland display name 'wayland-0'
+  /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin [7085 bytes]
+... value mask:             0000ffffffffffff
+vdagent virtio channel /dev/virtio-ports/com.redhat.spice.0 does not exist, exiting
+... version:                0
+Version: 2.7.1 - 2022/01/08 12:48:36  <gerlof.langeveld@atoptool.nl>
+VFIO - User Level meta-driver version: 0.3
+VFS: Disk quotas dquot_6.6.0
+VFS: Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+vgaarb: loaded
+video4linux: Process '/usr/lib/snapd/snap-device-helper add snap_firefox_firefox /class/video4linux 0:0' failed with exit code 1.
+video4linux: Process '/usr/lib/snapd/snap-device-helper add snap_firefox_geckodriver /class/video4linux 0:0' failed with exit code 1.
+videodev: Linux video capture interface: v2.00
+waiting for events: event logging is off
+WARNING: Could not parse desktop file orca-autostart.desktop or it references a not found TryExec binary
+Warning: found usr.sbin.sssd in /etc/apparmor.d/force-complain, forcing complain mode
+Warning from /etc/apparmor.d (/etc/apparmor.d/usr.sbin.sssd line 60): Caching disabled for: 'usr.sbin.sssd' due to force complain
+WARNING: systemd-networkd is not running, output will be incomplete.
+> Warning:          Unsupported maximum keycode 708, clipping.
+Watchdog thread running.
+Watching system buttons on /dev/input/event0 (Power Button)
+Watching system buttons on /dev/input/event1 (Power Button)
+Watching system buttons on /dev/input/event3 (Gaming KB  Gaming KB )
+Watching system buttons on /dev/input/event4 (Gaming KB  Gaming KB  System Control)
+Watching system buttons on /dev/input/event5 (Gaming KB  Gaming KB  Consumer Control)
+Watching system buttons on /dev/input/event6 (Gaming KB  Gaming KB  Keyboard)
+Watching system buttons on /dev/input/event9 (USB Gaming Mouse Keyboard)
+whoopsie.service: Deactivated successfully.
+Will monitor session c1
+Window manager warning: Failed to parse saved session file: Failed to open file “/var/lib/gdm3/.config/mutter/sessions/10d1a06a3892ea409216725760937928500000014700000.ms”: No such file or directory
+  with arguments:
+  with environment:
+workingset: timestamp_bits=36 max_order=23 bucket_order=0
+Write protecting the kernel read-only data: 30720k
+(WW) Option "-listen" for file descriptors is deprecated
+>                   X11 cannot support keycodes above 255.
+x2apic: IRQ remapping doesn't support X2APIC mode
+x86: Booting SMP configuration:
+x86/cpu: User Mode Instruction Prevention (UMIP) activated
+x86/fpu: Enabled xstate features 0x207, context size is 840 bytes, using 'compacted' format.
+x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'
+x86/fpu: Supporting XSAVE feature 0x002: 'SSE registers'
+x86/fpu: Supporting XSAVE feature 0x004: 'AVX registers'
+x86/fpu: Supporting XSAVE feature 0x200: 'Protection Keys User registers'
+x86/fpu: xstate_offset[2]:  576, xstate_sizes[2]:  256
+x86/fpu: xstate_offset[9]:  832, xstate_sizes[9]:    8
+x86/mm: Checked W+X mappings: passed, no W+X pages found.
+x86/mm: Memory block size: 128MB
+x86/PAT: Configuration [0-7]: WB  WC  UC- UC  WB  WP  UC- WT  
+xfs filesystem being mounted at /data supports timestamps until 2038 (0x7fffffff)
+XFS (nvme0n1p2): Ending clean mount
+XFS (nvme0n1p2): Mounting V5 Filesystem
+xhci_hcd 0000:06:00.0: hcc params 0x0200ef81 hci version 0x110 quirks 0x0000000000000410
+xhci_hcd 0000:06:00.0: Host supports USB 3.1 Enhanced SuperSpeed
+xhci_hcd 0000:06:00.0: new USB bus registered, assigned bus number 1
+xhci_hcd 0000:06:00.0: new USB bus registered, assigned bus number 2
+xhci_hcd 0000:06:00.0: xHCI Host Controller
+xhci_hcd 0000:2d:00.3: hcc params 0x0278ffe5 hci version 0x110 quirks 0x0000000000000410
+xhci_hcd 0000:2d:00.3: Host supports USB 3.1 Enhanced SuperSpeed
+xhci_hcd 0000:2d:00.3: new USB bus registered, assigned bus number 3
+xhci_hcd 0000:2d:00.3: new USB bus registered, assigned bus number 4
+xhci_hcd 0000:2d:00.3: xHCI Host Controller
+Yama: becoming mindful.
+zbud: loaded
+  zhaoxin   Shanghai  
+Zone ranges:
+zswap: loaded using pool lzo/zbud
